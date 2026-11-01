@@ -1,0 +1,2442 @@
+{
+ "meta": {
+  "itinere_doi": "10.5281/zenodo.17122148",
+  "itinere_paper_doi": "10.1038/s41597-025-06140-z",
+  "page": "https://maps.tristanhotham.com/roman-travel-times/",
+  "repo": "https://github.com/Tristan-Hotham/roman-travel-times",
+  "roads_page": "https://maps.tristanhotham.com/roman-roads/",
+  "roads_doi": "10.5281/zenodo.23857866",
+  "roads_blog": "https://blog.tristanhotham.com/2026/10/31/roman-roads/",
+  "year": 2026
+ },
+ "wiki": {
+  "Etesian": 1378184207,
+  "Mare_clausum": 1343557417,
+  "Cura_Annonae": 1369994183,
+  "Roman_roads": 1383149720
+ },
+ "casson": {
+  "fav_median": 4.699999999999999,
+  "fav_q1": 3.8625,
+  "fav_q3": 5.075,
+  "unf_median": 2.0,
+  "unf_q1": 1.8,
+  "unf_q3": 2.575,
+  "n_fav": 24,
+  "n_unf": 10,
+  "fav_min": 2.7,
+  "fav_max": 6.2,
+  "unf_min": 1.5,
+  "unf_max": 3.3,
+  "table1": {
+   "rome_alex": [
+    10,
+    13
+   ],
+   "alex_rome": [
+    53,
+    73
+   ]
+  }
+ },
+ "params": {
+  "mult": 1.1052545702959267,
+  "v_down": 5.194696480390855,
+  "v_neu": 3.7026028104913538,
+  "v_up": 1.0,
+  "v_up_e": 1.6,
+  "loss": 0.17228633968508236,
+  "ostia_alex_days": 11.003270600666447,
+  "alex_ostia_days": 30.184280284129827,
+  "port_days": 1.0,
+  "polar_p": 2.0,
+  "kt_kmd": 44.448,
+  "A": {
+   "v_down": 4.699999999999999,
+   "v_neu": 3.3499999999999996,
+   "v_up": 0.37391652121208596,
+   "v_up_e": 0.37391652121208596,
+   "v_up_53": 0.5259294892009345,
+   "v_up_73": 0.27861506157554683,
+   "ostia_alex_days": 12.104573363668294,
+   "alex_ostia_days": 63.00000011211654
+  },
+  "table1_A": {
+   "n": 57,
+   "inside": 0.21052631578947367,
+   "near": 0.43859649122807015,
+   "median_ratio": 1.3791150324919845,
+   "rmse_log": 0.8133649546401268,
+   "n_inside": 12,
+   "n_near": 25
+  },
+  "table1_B": {
+   "n": 57,
+   "inside": 0.24561403508771928,
+   "near": 0.631578947368421,
+   "median_ratio": 1.0147311711462634,
+   "rmse_log": 0.4150738966558634,
+   "n_inside": 14,
+   "n_near": 36
+  },
+  "v_down_kmd": 230.89386916041272,
+  "v_neu_kmd": 164.57328972071969,
+  "v_up_kmd": 44.448,
+  "v_up_e_kmd": 71.1168
+ },
+ "table1_A": {
+  "n": 57,
+  "inside": 0.21052631578947367,
+  "near": 0.43859649122807015,
+  "median_ratio": 1.3791150324919845,
+  "rmse_log": 0.8133649546401268,
+  "n_inside": 12,
+  "n_near": 25
+ },
+ "table1_B": {
+  "n": 57,
+  "inside": 0.24561403508771928,
+  "near": 0.631578947368421,
+  "median_ratio": 1.0147311711462634,
+  "rmse_log": 0.4150738966558634,
+  "n_inside": 14,
+  "n_near": 36
+ },
+ "validation_A": {
+  "median_ratio": 1.494155273693233,
+  "median_ratio_fav": 1.3300421209510418,
+  "median_ratio_unf": 3.0062955229614508
+ },
+ "table1_rows": [
+  {
+   "from": "Alexandria",
+   "to": "Byzantium",
+   "to_text": "Byzantium (via Myra and Rhodes)",
+   "lo": 17.0,
+   "hi": 20.0,
+   "model_days": 16.51,
+   "ratio": 0.89,
+   "inside": false,
+   "near": true,
+   "modelA_days": 59.25
+  },
+  {
+   "from": "Alexandria",
+   "to": "Crete",
+   "to_text": "Crete (via Myra and Rhodes)",
+   "lo": 11.0,
+   "hi": 14.0,
+   "model_days": 10.98,
+   "ratio": 0.88,
+   "inside": false,
+   "near": true,
+   "modelA_days": 35.6
+  },
+  {
+   "from": "Alexandria",
+   "to": "Cyprus",
+   "to_text": "Cyprus",
+   "lo": 6.5,
+   "hi": 6.5,
+   "model_days": 4.89,
+   "ratio": 0.75,
+   "inside": false,
+   "near": false,
+   "modelA_days": 10.99
+  },
+  {
+   "from": "Alexandria",
+   "to": "Cyrene",
+   "to_text": "Cyrene",
+   "lo": 7.0,
+   "hi": 9.0,
+   "model_days": 13.91,
+   "ratio": 1.74,
+   "inside": false,
+   "near": false,
+   "modelA_days": 39.5
+  },
+  {
+   "from": "Alexandria",
+   "to": "Massilia",
+   "to_text": "Massilia",
+   "lo": 58.0,
+   "hi": 78.0,
+   "model_days": 31.76,
+   "ratio": 0.47,
+   "inside": false,
+   "near": false,
+   "modelA_days": 64.76
+  },
+  {
+   "from": "Alexandria",
+   "to": "Myra",
+   "to_text": "Myra",
+   "lo": 5.5,
+   "hi": 7.0,
+   "model_days": 7.29,
+   "ratio": 1.17,
+   "inside": false,
+   "near": true,
+   "modelA_days": 24.82
+  },
+  {
+   "from": "Alexandria",
+   "to": "Naples",
+   "to_text": "Naples",
+   "lo": 50.0,
+   "hi": 70.0,
+   "model_days": 28.54,
+   "ratio": 0.48,
+   "inside": false,
+   "near": false,
+   "modelA_days": 61.4
+  },
+  {
+   "from": "Alexandria",
+   "to": "Rhodes",
+   "to_text": "Rhodes (via Myra)",
+   "lo": 7.5,
+   "hi": 10.0,
+   "model_days": 8.39,
+   "ratio": 0.96,
+   "inside": true,
+   "near": true,
+   "modelA_days": 32.37
+  },
+  {
+   "from": "Alexandria",
+   "to": "Rome",
+   "to_text": "Rome",
+   "lo": 53.0,
+   "hi": 73.0,
+   "model_days": 29.06,
+   "ratio": 0.46,
+   "inside": false,
+   "near": false,
+   "modelA_days": 61.87
+  },
+  {
+   "from": "Ascalon",
+   "to": "Thessalonica",
+   "to_text": "Thessalonica",
+   "lo": 13.0,
+   "hi": 19.0,
+   "model_days": 19.79,
+   "ratio": 1.24,
+   "inside": false,
+   "near": true,
+   "modelA_days": 76.62
+  },
+  {
+   "from": "Berytus",
+   "to": "Rhodes",
+   "to_text": "Rhodes (via Syria and coast of Asia Minor)",
+   "lo": 7.0,
+   "hi": 9.0,
+   "model_days": 10.1,
+   "ratio": 1.26,
+   "inside": false,
+   "near": true,
+   "modelA_days": 40.7
+  },
+  {
+   "from": "Byzantium",
+   "to": "Alexandria",
+   "to_text": "Alexandria",
+   "lo": 9.0,
+   "hi": 9.0,
+   "model_days": 6.52,
+   "ratio": 0.72,
+   "inside": false,
+   "near": false,
+   "modelA_days": 7.27
+  },
+  {
+   "from": "Byzantium",
+   "to": "Gaza",
+   "to_text": "Gaza",
+   "lo": 10.0,
+   "hi": 10.0,
+   "model_days": 7.48,
+   "ratio": 0.75,
+   "inside": false,
+   "near": false,
+   "modelA_days": 8.34
+  },
+  {
+   "from": "Byzantium",
+   "to": "Rhodes",
+   "to_text": "Rhodes",
+   "lo": 5.0,
+   "hi": 5.0,
+   "model_days": 4.15,
+   "ratio": 0.83,
+   "inside": false,
+   "near": true,
+   "modelA_days": 4.78
+  },
+  {
+   "from": "Caesarea",
+   "to": "Rhodes",
+   "to_text": "Rhodes",
+   "lo": 10.0,
+   "hi": 10.0,
+   "model_days": 10.35,
+   "ratio": 1.04,
+   "inside": false,
+   "near": true,
+   "modelA_days": 43.92
+  },
+  {
+   "from": "Carthage",
+   "to": "Gibraltar",
+   "to_text": "Gibraltar",
+   "lo": 7.0,
+   "hi": 7.0,
+   "model_days": 8.73,
+   "ratio": 1.25,
+   "inside": false,
+   "near": true,
+   "modelA_days": 9.65
+  },
+  {
+   "from": "Carthage",
+   "to": "Rome",
+   "to_text": "Rome",
+   "lo": 2.0,
+   "hi": 4.0,
+   "model_days": 3.45,
+   "ratio": 1.15,
+   "inside": true,
+   "near": true,
+   "modelA_days": 3.81
+  },
+  {
+   "from": "Corinth",
+   "to": "Naples",
+   "to_text": "Naples",
+   "lo": 4.5,
+   "hi": 7.0,
+   "model_days": 17.15,
+   "ratio": 2.98,
+   "inside": false,
+   "near": false,
+   "modelA_days": 23.98
+  },
+  {
+   "from": "Crete",
+   "to": "Alexandria",
+   "to_text": "Alexandria",
+   "lo": 3.0,
+   "hi": 4.0,
+   "model_days": 3.69,
+   "ratio": 1.05,
+   "inside": true,
+   "near": true,
+   "modelA_days": 4.17
+  },
+  {
+   "from": "Crete",
+   "to": "Cyrene",
+   "to_text": "Cyrene",
+   "lo": 1.5,
+   "hi": 2.0,
+   "model_days": 3.53,
+   "ratio": 2.02,
+   "inside": false,
+   "near": false,
+   "modelA_days": 5.24
+  },
+  {
+   "from": "Cyprus",
+   "to": "Alexandria",
+   "to_text": "Alexandria",
+   "lo": 2.0,
+   "hi": 2.5,
+   "model_days": 3.47,
+   "ratio": 1.54,
+   "inside": false,
+   "near": false,
+   "modelA_days": 5.16
+  },
+  {
+   "from": "Cyprus",
+   "to": "Rhodes",
+   "to_text": "Rhodes",
+   "lo": 4.0,
+   "hi": 5.0,
+   "model_days": 5.84,
+   "ratio": 1.3,
+   "inside": false,
+   "near": true,
+   "modelA_days": 23.91
+  },
+  {
+   "from": "Cyrene",
+   "to": "Alexandria",
+   "to_text": "Alexandria",
+   "lo": 4.5,
+   "hi": 4.5,
+   "model_days": 3.9,
+   "ratio": 0.87,
+   "inside": false,
+   "near": true,
+   "modelA_days": 4.43
+  },
+  {
+   "from": "Cyrene",
+   "to": "Crete",
+   "to_text": "Crete",
+   "lo": 2.0,
+   "hi": 2.0,
+   "model_days": 5.23,
+   "ratio": 2.62,
+   "inside": false,
+   "near": false,
+   "modelA_days": 8.87
+  },
+  {
+   "from": "Epidamnus",
+   "to": "Rome",
+   "to_text": "Rome",
+   "lo": 5.0,
+   "hi": 5.0,
+   "model_days": 8.74,
+   "ratio": 1.75,
+   "inside": false,
+   "near": false,
+   "modelA_days": 11.93
+  },
+  {
+   "from": "Gaza",
+   "to": "Byzantium",
+   "to_text": "Byzantium",
+   "lo": 20.0,
+   "hi": 20.0,
+   "model_days": 19.31,
+   "ratio": 0.97,
+   "inside": false,
+   "near": true,
+   "modelA_days": 73.79
+  },
+  {
+   "from": "Gaza",
+   "to": "Rhodes",
+   "to_text": "Rhodes (via Syria and coast of Asia Minor)",
+   "lo": 10.0,
+   "hi": 12.0,
+   "model_days": 11.05,
+   "ratio": 1.0,
+   "inside": true,
+   "near": true,
+   "modelA_days": 46.91
+  },
+  {
+   "from": "Gibraltar",
+   "to": "Carthage",
+   "to_text": "Carthage",
+   "lo": 6.0,
+   "hi": 8.0,
+   "model_days": 8.73,
+   "ratio": 1.25,
+   "inside": false,
+   "near": true,
+   "modelA_days": 9.65
+  },
+  {
+   "from": "Gibraltar",
+   "to": "Rome",
+   "to_text": "Rome",
+   "lo": 7.0,
+   "hi": 10.0,
+   "model_days": 10.15,
+   "ratio": 1.19,
+   "inside": false,
+   "near": true,
+   "modelA_days": 11.22
+  },
+  {
+   "from": "Massilia",
+   "to": "Alexandria",
+   "to_text": "Alexandria",
+   "lo": 20.0,
+   "hi": 30.0,
+   "model_days": 13.32,
+   "ratio": 0.53,
+   "inside": false,
+   "near": false,
+   "modelA_days": 14.77
+  },
+  {
+   "from": "Massilia",
+   "to": "Rome",
+   "to_text": "Rome",
+   "lo": 2.0,
+   "hi": 3.0,
+   "model_days": 3.86,
+   "ratio": 1.54,
+   "inside": false,
+   "near": false,
+   "modelA_days": 4.26
+  },
+  {
+   "from": "Myra",
+   "to": "Alexandria",
+   "to_text": "Alexandria",
+   "lo": 2.5,
+   "hi": 3.5,
+   "model_days": 3.04,
+   "ratio": 1.01,
+   "inside": true,
+   "near": true,
+   "modelA_days": 3.71
+  },
+  {
+   "from": "Naples",
+   "to": "Alexandria",
+   "to_text": "Alexandria",
+   "lo": 9.0,
+   "hi": 11.0,
+   "model_days": 8.83,
+   "ratio": 0.88,
+   "inside": false,
+   "near": true,
+   "modelA_days": 9.81
+  },
+  {
+   "from": "Naples",
+   "to": "Corinth",
+   "to_text": "Corinth",
+   "lo": 5.5,
+   "hi": 8.0,
+   "model_days": 7.97,
+   "ratio": 1.18,
+   "inside": true,
+   "near": true,
+   "modelA_days": 15.7
+  },
+  {
+   "from": "Naples",
+   "to": "Rome",
+   "to_text": "Rome",
+   "lo": 3.0,
+   "hi": 3.0,
+   "model_days": 1.13,
+   "ratio": 0.38,
+   "inside": false,
+   "near": false,
+   "modelA_days": 1.25
+  },
+  {
+   "from": "Narbo",
+   "to": "Rome",
+   "to_text": "Rome",
+   "lo": 2.5,
+   "hi": 3.5,
+   "model_days": 4.81,
+   "ratio": 1.6,
+   "inside": false,
+   "near": false,
+   "modelA_days": 5.32
+  },
+  {
+   "from": "Narbo",
+   "to": "Utica",
+   "to_text": "Utica",
+   "lo": 5.0,
+   "hi": 5.0,
+   "model_days": 5.58,
+   "ratio": 1.12,
+   "inside": false,
+   "near": true,
+   "modelA_days": 6.16
+  },
+  {
+   "from": "Rhodes",
+   "to": "Alexandria",
+   "to_text": "Alexandria",
+   "lo": 3.5,
+   "hi": 3.5,
+   "model_days": 2.82,
+   "ratio": 0.8,
+   "inside": false,
+   "near": true,
+   "modelA_days": 3.19
+  },
+  {
+   "from": "Rhodes",
+   "to": "Berytus",
+   "to_text": "Berytus",
+   "lo": 3.0,
+   "hi": 4.0,
+   "model_days": 3.43,
+   "ratio": 0.98,
+   "inside": true,
+   "near": true,
+   "modelA_days": 3.91
+  },
+  {
+   "from": "Rhodes",
+   "to": "Byzantium",
+   "to_text": "Byzantium",
+   "lo": 10.0,
+   "hi": 10.0,
+   "model_days": 8.26,
+   "ratio": 0.83,
+   "inside": false,
+   "near": true,
+   "modelA_days": 26.88
+  },
+  {
+   "from": "Rhodes",
+   "to": "Caesarea",
+   "to_text": "Caesarea",
+   "lo": 3.0,
+   "hi": 4.0,
+   "model_days": 3.28,
+   "ratio": 0.94,
+   "inside": true,
+   "near": true,
+   "modelA_days": 3.66
+  },
+  {
+   "from": "Rhodes",
+   "to": "Cyprus",
+   "to_text": "Cyprus",
+   "lo": 1.5,
+   "hi": 2.5,
+   "model_days": 1.97,
+   "ratio": 0.98,
+   "inside": true,
+   "near": true,
+   "modelA_days": 2.24
+  },
+  {
+   "from": "Rhodes",
+   "to": "Gaza",
+   "to_text": "Gaza",
+   "lo": 3.0,
+   "hi": 4.0,
+   "model_days": 3.47,
+   "ratio": 0.99,
+   "inside": true,
+   "near": true,
+   "modelA_days": 3.85
+  },
+  {
+   "from": "Rhodes",
+   "to": "Rome",
+   "to_text": "Rome",
+   "lo": 45.0,
+   "hi": 63.0,
+   "model_days": 21.39,
+   "ratio": 0.4,
+   "inside": false,
+   "near": false,
+   "modelA_days": 31.42
+  },
+  {
+   "from": "Rhodes",
+   "to": "Tyre",
+   "to_text": "Tyre",
+   "lo": 4.0,
+   "hi": 4.0,
+   "model_days": 3.35,
+   "ratio": 0.84,
+   "inside": false,
+   "near": true,
+   "modelA_days": 3.79
+  },
+  {
+   "from": "Rome",
+   "to": "Alexandria",
+   "to_text": "Alexandria",
+   "lo": 10.0,
+   "hi": 13.0,
+   "model_days": 9.88,
+   "ratio": 0.86,
+   "inside": false,
+   "near": true,
+   "modelA_days": 10.97
+  },
+  {
+   "from": "Rome",
+   "to": "Carthage",
+   "to_text": "Carthage",
+   "lo": 2.0,
+   "hi": 4.0,
+   "model_days": 3.45,
+   "ratio": 1.15,
+   "inside": true,
+   "near": true,
+   "modelA_days": 3.81
+  },
+  {
+   "from": "Rome",
+   "to": "Epidamnus",
+   "to_text": "Epidamnus",
+   "lo": 4.5,
+   "hi": 6.5,
+   "model_days": 7.99,
+   "ratio": 1.45,
+   "inside": false,
+   "near": true,
+   "modelA_days": 9.86
+  },
+  {
+   "from": "Rome",
+   "to": "Gibraltar",
+   "to_text": "Gibraltar",
+   "lo": 7.0,
+   "hi": 7.0,
+   "model_days": 10.15,
+   "ratio": 1.45,
+   "inside": false,
+   "near": false,
+   "modelA_days": 11.22
+  },
+  {
+   "from": "Rome",
+   "to": "Massilia",
+   "to_text": "Massilia",
+   "lo": 4.5,
+   "hi": 6.0,
+   "model_days": 3.86,
+   "ratio": 0.73,
+   "inside": false,
+   "near": true,
+   "modelA_days": 4.26
+  },
+  {
+   "from": "Rome",
+   "to": "Naples",
+   "to_text": "Naples",
+   "lo": 1.0,
+   "hi": 1.5,
+   "model_days": 1.13,
+   "ratio": 0.9,
+   "inside": true,
+   "near": true,
+   "modelA_days": 1.25
+  },
+  {
+   "from": "Rome",
+   "to": "Narbo",
+   "to_text": "Narbo",
+   "lo": 3.0,
+   "hi": 3.0,
+   "model_days": 4.81,
+   "ratio": 1.6,
+   "inside": false,
+   "near": false,
+   "modelA_days": 5.32
+  },
+  {
+   "from": "Rome",
+   "to": "Rhodes",
+   "to_text": "Rhodes",
+   "lo": 7.0,
+   "hi": 11.0,
+   "model_days": 10.35,
+   "ratio": 1.15,
+   "inside": true,
+   "near": true,
+   "modelA_days": 14.36
+  },
+  {
+   "from": "Rome",
+   "to": "Tarraco",
+   "to_text": "Tarraco",
+   "lo": 4.0,
+   "hi": 4.0,
+   "model_days": 5.6,
+   "ratio": 1.4,
+   "inside": false,
+   "near": false,
+   "modelA_days": 6.19
+  },
+  {
+   "from": "Tarraco",
+   "to": "Rome",
+   "to_text": "Rome",
+   "lo": 3.5,
+   "hi": 5.0,
+   "model_days": 5.6,
+   "ratio": 1.32,
+   "inside": false,
+   "near": true,
+   "modelA_days": 6.19
+  },
+  {
+   "from": "Thessalonica",
+   "to": "Ascalon",
+   "to_text": "Ascalon",
+   "lo": 12.0,
+   "hi": 12.0,
+   "model_days": 6.83,
+   "ratio": 0.57,
+   "inside": false,
+   "near": false,
+   "modelA_days": 7.79
+  },
+  {
+   "from": "Tyre",
+   "to": "Rhodes",
+   "to_text": "Rhodes (via Syria and coast of Asia Minor)",
+   "lo": 9.0,
+   "hi": 11.0,
+   "model_days": 10.18,
+   "ratio": 1.02,
+   "inside": true,
+   "near": true,
+   "modelA_days": 41.99
+  }
+ ],
+ "modes": {
+  "foot": {
+   "label": "On foot",
+   "kmd": 22.5
+  },
+  "cart": {
+   "label": "Horse-drawn cart",
+   "kmd": 45.0
+  },
+  "courier": {
+   "label": "Courier (relay of horses)",
+   "kmd": 80.0
+  }
+ },
+ "sens_params": {
+  "speeds": [
+   0.821808510638298,
+   1.0797872340425534
+  ],
+  "upwind": [
+   0.5,
+   1.5
+  ],
+  "port_days": [
+   0.5,
+   3.0
+  ],
+  "model_A": [
+   null,
+   null
+  ]
+ },
+ "n_ports": 211,
+ "n_ports_typed": 135,
+ "n_ports_extra": 76,
+ "n_sea_cells": 29351,
+ "cell_km": 15.0,
+ "n_cells_basin": {
+  "0": 23568,
+  "1": 805,
+  "2": 3283
+ },
+ "n_straits": 4,
+ "km_total": 299171.3101427936,
+ "n_sections": 14769,
+ "n_nodes": 10315,
+ "city": {
+  "rome": {
+   "key": "rome",
+   "latin": "Roma",
+   "name": "Rome",
+   "node": 9035,
+   "node_name": "Roma",
+   "winter_foot": 0.0,
+   "summer_foot": 0.0,
+   "winter_cart": 0.0,
+   "summer_cart": 0.0,
+   "winter_courier": 0.0,
+   "summer_courier": 0.0,
+   "calm_foot": 0.0,
+   "modelA_foot": 0.0,
+   "ports_from": [],
+   "ports_to": [],
+   "sea_days": 0,
+   "road_days": 0,
+   "boardings": 0,
+   "saved": 0.0,
+   "ratio": null,
+   "saved_courier": 0.0
+  },
+  "london": {
+   "key": "london",
+   "latin": "Londinium",
+   "name": "London",
+   "node": 6218,
+   "node_name": "Londinium",
+   "winter_foot": 80.6738830485158,
+   "summer_foot": 29.920989982881807,
+   "winter_cart": 40.8369415242579,
+   "summer_cart": 27.168704607138135,
+   "winter_courier": 23.408279607395084,
+   "summer_courier": 20.29047273921137,
+   "calm_foot": 29.920989982881807,
+   "modelA_foot": 32.38567512695148,
+   "summer_foot_min": 28.190712699773744,
+   "summer_foot_max": 34.99833654761768,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Bosham Harbour"
+   ],
+   "sea_days": 24.41641923139449,
+   "road_days": 5.50457075148732,
+   "boardings": 1,
+   "saved": 50.752893065634,
+   "ratio": 2.6962304086419064,
+   "saved_courier": 3.117806868183713
+  },
+  "constantinople": {
+   "key": "constantinople",
+   "latin": "Byzantium",
+   "name": "Constantinople (Istanbul)",
+   "node": 2080,
+   "node_name": "Byzantium",
+   "winter_foot": 75.18325258714556,
+   "summer_foot": 17.271289348958128,
+   "winter_cart": 38.09162629357277,
+   "summer_cart": 16.66905308884251,
+   "winter_courier": 21.864039790134697,
+   "summer_courier": 16.366420617874116,
+   "calm_foot": 14.317834346710027,
+   "modelA_foot": 36.30985852741592,
+   "summer_foot_min": 15.065424092647463,
+   "summer_foot_max": 36.30985852741592,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Byzantium"
+   ],
+   "sea_days": 16.087905868396046,
+   "road_days": 1.183383480562083,
+   "boardings": 1,
+   "saved": 57.91196323818743,
+   "ratio": 4.353077009371099,
+   "saved_courier": 5.497619172260581
+  },
+  "alexandria": {
+   "key": "alexandria",
+   "latin": "Alexandria",
+   "name": "Alexandria",
+   "node": 1293,
+   "node_name": "Alexandria",
+   "winter_foot": 179.8861335130559,
+   "summer_foot": 12.159829713256455,
+   "winter_cart": 90.44306675652794,
+   "summer_cart": 11.572297600439876,
+   "winter_courier": 51.31172505054698,
+   "summer_courier": 11.276098193914818,
+   "calm_foot": 14.576848845860553,
+   "modelA_foot": 13.261404446344995,
+   "summer_foot_min": 11.424978648106814,
+   "summer_foot_max": 14.312191267026309,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Alexandria"
+   ],
+   "sea_days": 11.005854527292437,
+   "road_days": 1.153975185964018,
+   "boardings": 1,
+   "saved": 167.72630379979947,
+   "ratio": 14.793474724152336,
+   "saved_courier": 40.03562685663216
+  },
+  "eboracum": {
+   "key": "eboracum",
+   "latin": "Eboracum",
+   "name": "York",
+   "node": 5870,
+   "node_name": "Eburacum",
+   "winter_foot": 94.33147616878944,
+   "summer_foot": 40.38075582307836,
+   "winter_cart": 47.66573808439472,
+   "summer_cart": 32.487433807828495,
+   "winter_courier": 27.24947767247206,
+   "summer_courier": 24.131670804288348,
+   "calm_foot": 40.38075582307836,
+   "modelA_foot": 42.864143921320256,
+   "summer_foot_min": 38.6373485477646,
+   "summer_foot_max": 45.49663119557908,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "‘Abone’"
+   ],
+   "sea_days": 24.59411179257864,
+   "road_days": 15.78664403049972,
+   "boardings": 1,
+   "saved": 53.950720345711076,
+   "ratio": 2.336050285489635,
+   "saved_courier": 3.117806868183713
+  },
+  "lutetia": {
+   "key": "lutetia",
+   "latin": "Lutetia",
+   "name": "Paris",
+   "node": 8790,
+   "node_name": "Lutetia",
+   "winter_foot": 66.7490959239048,
+   "summer_foot": 36.95723304658699,
+   "winter_cart": 33.3745479619524,
+   "summer_cart": 22.917200142026385,
+   "winter_courier": 18.773183228598224,
+   "summer_courier": 15.229379024693817,
+   "calm_foot": 36.95723304658699,
+   "modelA_foot": 39.51625349078117,
+   "summer_foot_min": 35.16072976816536,
+   "summer_foot_max": 41.4307119397639,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Gesoriacum"
+   ],
+   "sea_days": 25.312677701304807,
+   "road_days": 11.644555345282187,
+   "boardings": 1,
+   "saved": 29.79186287731781,
+   "ratio": 1.8061172447559382,
+   "saved_courier": 3.5438042039044078
+  },
+  "lugdunum": {
+   "key": "lugdunum",
+   "latin": "Lugdunum",
+   "name": "Lyon",
+   "node": 7463,
+   "node_name": "Lugdunum",
+   "winter_foot": 49.57076378950058,
+   "summer_foot": 19.478748990847638,
+   "winter_cart": 24.78538189475029,
+   "summer_cart": 12.41239040117848,
+   "winter_courier": 13.941777315797042,
+   "summer_courier": 9.320423545466873,
+   "calm_foot": 19.478748990847638,
+   "modelA_foot": 19.936188701660484,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Saintes-Marie-de-la-Mer Roman Port"
+   ],
+   "sea_days": 5.346031811509322,
+   "road_days": 14.132717179338316,
+   "boardings": 1,
+   "saved": 30.092014798652944,
+   "ratio": 2.5448638314910315,
+   "saved_courier": 4.621353770330169
+  },
+  "colonia": {
+   "key": "colonia",
+   "latin": "Colonia Agrippina",
+   "name": "Cologne",
+   "node": 8824,
+   "node_name": "Claudia Ara Agrippinensium",
+   "winter_foot": 70.93497274925963,
+   "summer_foot": 44.81022554874011,
+   "winter_cart": 35.467486374629814,
+   "summer_cart": 27.67322217381478,
+   "winter_courier": 19.95046108572928,
+   "summer_courier": 17.904641417574794,
+   "calm_foot": 44.81022554874011,
+   "modelA_foot": 47.36924599293428,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Gesoriacum"
+   ],
+   "sea_days": 25.312677701304807,
+   "road_days": 19.4975478474353,
+   "boardings": 1,
+   "saved": 26.124747200519522,
+   "ratio": 1.5830086075354302,
+   "saved_courier": 2.0458196681544862
+  },
+  "treveri": {
+   "key": "treveri",
+   "latin": "Augusta Treverorum",
+   "name": "Trier",
+   "node": 8431,
+   "node_name": "Augusta Treverorum",
+   "winter_foot": 65.55091100916887,
+   "summer_foot": 42.18965099203309,
+   "winter_cart": 32.775455504584436,
+   "summer_cart": 23.767841401771207,
+   "winter_courier": 18.436193721328742,
+   "summer_courier": 15.707864733300285,
+   "calm_foot": 42.18965099203309,
+   "modelA_foot": 42.64709070284593,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Saintes-Marie-de-la-Mer Roman Port"
+   ],
+   "sea_days": 5.346031811509322,
+   "road_days": 36.84361918052377,
+   "boardings": 1,
+   "saved": 23.361260017135784,
+   "ratio": 1.5537201533510487,
+   "saved_courier": 2.7283289880284567
+  },
+  "tarraco": {
+   "key": "tarraco",
+   "latin": "Tarraco",
+   "name": "Tarragona",
+   "node": 5402,
+   "node_name": "Tarraco",
+   "winter_foot": 70.45776813418348,
+   "summer_foot": 7.869108303418408,
+   "winter_cart": 35.22888406709174,
+   "summer_cart": 7.315375766690034,
+   "winter_courier": 19.816247287739106,
+   "summer_courier": 7.072682809140021,
+   "calm_foot": 7.869108303418408,
+   "modelA_foot": 8.475547585786467,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Tarraco"
+   ],
+   "sea_days": 6.76164322996166,
+   "road_days": 1.107465073456749,
+   "boardings": 1,
+   "saved": 62.588659830765074,
+   "ratio": 8.953716916512132,
+   "saved_courier": 12.743564478599085
+  },
+  "emerita": {
+   "key": "emerita",
+   "latin": "Emerita Augusta",
+   "name": "Mérida",
+   "node": 5039,
+   "node_name": "Augusta Emerita",
+   "winter_foot": 107.8514727359139,
+   "summer_foot": 27.883845922624737,
+   "winter_cart": 53.92573636795695,
+   "summer_cart": 20.038203977159096,
+   "winter_courier": 30.33322670697578,
+   "summer_courier": 15.49873522401865,
+   "calm_foot": 27.883845922624737,
+   "modelA_foot": 29.061914229781117,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Gades"
+   ],
+   "sea_days": 12.19256203169347,
+   "road_days": 15.691283890931267,
+   "boardings": 1,
+   "saved": 79.96762681328917,
+   "ratio": 3.8678836856003445,
+   "saved_courier": 14.834491482957128
+  },
+  "gades": {
+   "key": "gades",
+   "latin": "Gades",
+   "name": "Cádiz",
+   "node": 9911,
+   "node_name": "Gades",
+   "winter_foot": 115.88868828210116,
+   "summer_foot": 13.30214796639358,
+   "winter_cart": 57.94434414105058,
+   "summer_cart": 12.747354999043523,
+   "winter_courier": 32.59369357934098,
+   "summer_courier": 12.504198103096526,
+   "calm_foot": 13.30214796639358,
+   "modelA_foot": 14.480216273549958,
+   "summer_foot_min": 12.475111363066489,
+   "summer_foot_max": 15.72901416744038,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Gades"
+   ],
+   "sea_days": 12.19256203169347,
+   "road_days": 1.1095859347001098,
+   "boardings": 1,
+   "saved": 102.58654031570758,
+   "ratio": 8.712028205886842,
+   "saved_courier": 20.08949547624445
+  },
+  "carthago": {
+   "key": "carthago",
+   "latin": "Carthago",
+   "name": "Carthage",
+   "node": 941,
+   "node_name": "Carthago",
+   "winter_foot": 209.59171987746348,
+   "summer_foot": 5.800810619206214,
+   "winter_cart": 105.29585993873174,
+   "summer_cart": 5.187262033348002,
+   "winter_courier": 59.66642121553664,
+   "summer_courier": 4.918399554303686,
+   "calm_foot": 5.800810619206214,
+   "modelA_foot": 6.176960292482525,
+   "summer_foot_min": 5.300810619206214,
+   "summer_foot_max": 7.800810619206213,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Carthago"
+   ],
+   "sea_days": 4.573713447489791,
+   "road_days": 1.2270971717164225,
+   "boardings": 1,
+   "saved": 203.79090925825727,
+   "ratio": 36.1314536253804,
+   "saved_courier": 54.748021661232954
+  },
+  "mediolanum": {
+   "key": "mediolanum",
+   "latin": "Mediolanum",
+   "name": "Milan",
+   "node": 9366,
+   "node_name": "Mediolanium",
+   "winter_foot": 28.39533546908587,
+   "summer_foot": 14.386364611046424,
+   "winter_cart": 14.197667734542936,
+   "summer_cart": 8.966584155518754,
+   "winter_courier": 7.9861881006804,
+   "summer_courier": 6.594995233494049,
+   "calm_foot": 14.386364611046424,
+   "modelA_foot": 14.65442734011706,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Genua"
+   ],
+   "sea_days": 3.5468036999910857,
+   "road_days": 10.839560911055338,
+   "boardings": 1,
+   "saved": 14.008970858039447,
+   "ratio": 1.9737672606519927,
+   "saved_courier": 1.3911928671863514
+  },
+  "aquileia": {
+   "key": "aquileia",
+   "latin": "Aquileia",
+   "name": "Aquileia",
+   "node": 6703,
+   "node_name": "Aquileia",
+   "winter_foot": 31.952585951720916,
+   "summer_foot": 14.067443883705264,
+   "winter_cart": 15.976292975860458,
+   "summer_cart": 9.203573635352777,
+   "winter_courier": 8.986664798921506,
+   "summer_courier": 6.262477855001903,
+   "calm_foot": 12.385074592647232,
+   "modelA_foot": 16.081967556754833,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Aquileia"
+   ],
+   "sea_days": 12.959978808356293,
+   "road_days": 1.1074650753489705,
+   "boardings": 1,
+   "saved": 17.885142068015654,
+   "ratio": 2.2713853501653234,
+   "saved_courier": 2.7241869439196034
+  },
+  "sirmium": {
+   "key": "sirmium",
+   "latin": "Sirmium",
+   "name": "Sremska Mitrovica",
+   "node": 6960,
+   "node_name": "Sirmium",
+   "winter_foot": 57.68400704783385,
+   "summer_foot": 34.67690231909442,
+   "winter_cart": 28.842003523916926,
+   "summer_cart": 20.04373888860083,
+   "winter_courier": 16.223626982203267,
+   "summer_courier": 12.228230491501249,
+   "calm_foot": 32.99453302803638,
+   "modelA_foot": 36.79796990849368,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Salona"
+   ],
+   "sea_days": 10.808990501290976,
+   "road_days": 23.86791181780344,
+   "boardings": 1,
+   "saved": 23.007104728739435,
+   "ratio": 1.6634705867620376,
+   "saved_courier": 3.995396490702019
+  },
+  "athenae": {
+   "key": "athenae",
+   "latin": "Athenae",
+   "name": "Athens",
+   "node": 1718,
+   "node_name": "Skambonidai",
+   "winter_foot": 66.95466027321999,
+   "summer_foot": 11.457860206160115,
+   "winter_cart": 33.977330136609986,
+   "summer_cart": 10.76137501736959,
+   "winter_courier": 19.549748201843112,
+   "summer_courier": 10.417508640105922,
+   "calm_foot": 10.855710317179001,
+   "modelA_foot": 17.943491995862793,
+   "summer_foot_min": 10.622206123619728,
+   "summer_foot_max": 17.943491995862793,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Phaleron"
+   ],
+   "sea_days": 10.085978868248201,
+   "road_days": 1.3718813379119132,
+   "boardings": 1,
+   "saved": 55.49680006705987,
+   "ratio": 5.843557092555816,
+   "saved_courier": 9.13223956173719
+  },
+  "ephesus": {
+   "key": "ephesus",
+   "latin": "Ephesus",
+   "name": "Ephesus",
+   "node": 4430,
+   "node_name": "Ephesos",
+   "winter_foot": 88.40221604975727,
+   "summer_foot": 15.024771840687135,
+   "winter_cart": 44.701108024878636,
+   "summer_cart": 13.7570045580816,
+   "winter_courier": 25.581873263994247,
+   "summer_courier": 13.163202264773874,
+   "calm_foot": 13.552494729891672,
+   "modelA_foot": 23.02024892831594,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Colophon/Colophon ad Mare/Notion"
+   ],
+   "sea_days": 12.51032631514521,
+   "road_days": 2.5144455255419245,
+   "boardings": 1,
+   "saved": 73.37744420907013,
+   "ratio": 5.883764291871891,
+   "saved_courier": 12.418670999220373
+  },
+  "antiochia": {
+   "key": "antiochia",
+   "latin": "Antiochia",
+   "name": "Antioch (Antakya)",
+   "node": 3291,
+   "node_name": "Antiochia",
+   "winter_foot": 127.86674862359307,
+   "summer_foot": 16.778152833424567,
+   "winter_cart": 64.43337431179653,
+   "summer_cart": 15.543839601849697,
+   "winter_courier": 36.68127305038556,
+   "summer_courier": 14.964673455867883,
+   "calm_foot": 18.14397135904712,
+   "modelA_foot": 18.950774865859437,
+   "summer_foot_min": 15.853462470919041,
+   "summer_foot_max": 19.445804267917417,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Seleucia Pieria"
+   ],
+   "sea_days": 14.33061540994397,
+   "road_days": 2.4475374234805964,
+   "boardings": 1,
+   "saved": 111.0885957901685,
+   "ratio": 7.621026575038913,
+   "saved_courier": 21.71659959451768
+  },
+  "hierosolyma": {
+   "key": "hierosolyma",
+   "latin": "Hierosolyma",
+   "name": "Jerusalem",
+   "node": 2218,
+   "node_name": "Ierusalem",
+   "winter_foot": 156.89629719110962,
+   "summer_foot": 17.30596742556464,
+   "winter_cart": 78.94814859555481,
+   "summer_cart": 15.24257348315857,
+   "winter_courier": 44.845833584999625,
+   "summer_courier": 14.30068452618811,
+   "calm_foot": 19.927063404404226,
+   "modelA_foot": 18.812912398676115,
+   "summer_foot_min": 16.423613038545394,
+   "summer_foot_max": 19.87865391908287,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Ioppe"
+   ],
+   "sea_days": 13.200268580421637,
+   "road_days": 4.105698845143001,
+   "boardings": 1,
+   "saved": 139.590329765545,
+   "ratio": 9.066022911804401,
+   "saved_courier": 30.545149058811514
+  },
+  "lepcis": {
+   "key": "lepcis",
+   "latin": "Lepcis Magna",
+   "name": "Leptis Magna",
+   "node": 1040,
+   "node_name": "Lepcis Magna",
+   "winter_foot": 231.0081652781728,
+   "summer_foot": 8.602963189495778,
+   "winter_cart": 116.0040826390864,
+   "summer_cart": 8.035456093300635,
+   "winter_courier": 65.68979648448612,
+   "summer_courier": 7.786736765983911,
+   "calm_foot": 8.602963189495778,
+   "modelA_foot": 9.283744381882084,
+   "summer_foot_min": 8.102963189495778,
+   "summer_foot_max": 10.602963189495776,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Lepcis Magna"
+   ],
+   "sea_days": 7.467948997105493,
+   "road_days": 1.1350141923902846,
+   "boardings": 1,
+   "saved": 222.40520208867704,
+   "ratio": 26.85216246888443,
+   "saved_courier": 57.90305971850221
+  },
+  "massilia": {
+   "key": "massilia",
+   "latin": "Massilia",
+   "name": "Marseille",
+   "node": 7328,
+   "node_name": "Massalia",
+   "winter_foot": 45.489562918552934,
+   "summer_foot": 6.175121395990357,
+   "winter_cart": 22.744781459276467,
+   "summer_cart": 5.594160978354491,
+   "winter_courier": 12.793939570843015,
+   "summer_courier": 5.3395558229074505,
+   "calm_foot": 6.175121395990357,
+   "modelA_foot": 6.597529096520173,
+   "summer_foot_min": 5.675121395990356,
+   "summer_foot_max": 8.175121395990356,
+   "ports_from": [
+    "Portus (Trajan's harbour)"
+   ],
+   "ports_to": [
+    "Massilia"
+   ],
+   "sea_days": 5.0132005607186265,
+   "road_days": 1.1619208352717307,
+   "boardings": 1,
+   "saved": 39.314441522562575,
+   "ratio": 7.366586015311427,
+   "saved_courier": 7.454383747935565
+  },
+  "ostia": {
+   "key": "ostia",
+   "latin": "Ostia",
+   "name": "Ostia",
+   "node": 9398,
+   "node_name": "Ostia",
+   "winter_foot": 1.110480193483598,
+   "summer_foot": 1.110480193483598,
+   "winter_cart": 0.555240096741799,
+   "summer_cart": 0.555240096741799,
+   "winter_courier": 0.312322554417262,
+   "summer_courier": 0.312322554417262,
+   "calm_foot": 1.110480193483598,
+   "modelA_foot": 1.110480193483598,
+   "ports_from": [],
+   "ports_to": [],
+   "sea_days": 0,
+   "road_days": 1.110480193483598,
+   "boardings": 0,
+   "saved": 0.0,
+   "ratio": 1.0,
+   "saved_courier": 0.0
+  }
+ },
+ "compare": [
+  "london",
+  "constantinople",
+  "alexandria",
+  "carthago",
+  "antiochia",
+  "hierosolyma",
+  "gades",
+  "massilia",
+  "lepcis",
+  "athenae",
+  "eboracum",
+  "lutetia"
+ ],
+ "carthage_ratio": 36.1314536253804,
+ "share_within": {
+  "winter_foot": {
+   "7": 0.008323480251796056,
+   "14": 0.018582513520570262,
+   "30": 0.05049080479293996,
+   "60": 0.24704609507205721
+  },
+  "summer_foot": {
+   "7": 0.020180326763942064,
+   "14": 0.16101538578446742,
+   "30": 0.6485938576298722,
+   "60": 0.9958376254809498
+  },
+  "winter_cart": {
+   "7": 0.018582513520570262,
+   "14": 0.04501017390811129,
+   "30": 0.2429654367169631,
+   "60": 0.7215235783290712
+  },
+  "summer_cart": {
+   "7": 0.04787670007856506,
+   "14": 0.30997525520892744,
+   "30": 0.9565643292215046,
+   "60": 0.9997823641806353
+  },
+  "winter_courier": {
+   "7": 0.037308168808809994,
+   "14": 0.13516627695988417,
+   "30": 0.6398831578497918,
+   "60": 0.933986096225477
+  },
+  "summer_courier": {
+   "7": 0.10081813204102627,
+   "14": 0.5072298890668758,
+   "30": 0.9997823641806353,
+   "60": 0.9997823641806353
+  },
+  "calm_foot": {
+   "7": 0.02009883706147573,
+   "14": 0.1673683478491362,
+   "30": 0.6590216581189287,
+   "60": 0.9942229762828392
+  },
+  "caseA_foot": {
+   "7": 0.018989240856237686,
+   "14": 0.13023740792384256,
+   "30": 0.5507709376572224,
+   "60": 0.9910873543196649
+  }
+ },
+ "km_within": {
+  "winter_foot": {
+   "7": 2490.1464918774955,
+   "14": 5559.354915695181,
+   "30": 15105.400220067888,
+   "60": 73909.1039283685
+  },
+  "summer_foot": {
+   "7": 6037.374797078229,
+   "14": 48171.18391828646,
+   "30": 194040.6741376974,
+   "60": 297926.04710462433
+  },
+  "winter_cart": {
+   "7": 5559.354915695181,
+   "14": 13465.752697844637,
+   "30": 72688.28802202985,
+   "60": 215859.15422762476
+  },
+  "summer_cart": {
+   "7": 14323.335087817897,
+   "14": 92735.70321270163,
+   "30": 286176.60360906005,
+   "60": 299106.19974958024
+  },
+  "winter_courier": {
+   "7": 11161.533741560192,
+   "14": 40437.87216521224,
+   "30": 191434.6826722302,
+   "60": 279421.8440629292
+  },
+  "summer_courier": {
+   "7": 30161.892648862984,
+   "14": 151748.63045572108,
+   "30": 299106.19974958024,
+   "60": 299106.19974958024
+  },
+  "calm_foot": {
+   "7": 6012.995416028229,
+   "14": 50071.80790246089,
+   "30": 197160.37287191607,
+   "60": 297442.9903886046
+  },
+  "caseA_foot": {
+   "7": 5681.036065577692,
+   "14": 38963.29595817742,
+   "30": 164774.8630074861,
+   "60": 296504.9022577692
+  }
+ },
+ "area_share": {
+  "winter_foot": {
+   "7": 0.004570684012352645,
+   "14": 0.01428146385004463,
+   "30": 0.03915603935610296,
+   "60": 0.21395007643455868
+  },
+  "summer_foot": {
+   "7": 0.012450112343411751,
+   "14": 0.10810103725287014,
+   "30": 0.589423303819676,
+   "60": 0.9109101355302711
+  },
+  "winter_courier": {
+   "7": 0.029311883778432118,
+   "14": 0.12265951225517857,
+   "30": 0.5253465204321374,
+   "60": 0.8239594127363572
+  },
+  "summer_courier": {
+   "7": 0.07226913172393273,
+   "14": 0.47612574254378315,
+   "30": 0.9166196431685972,
+   "60": 0.9166196431685972
+  }
+ },
+ "area_km2": 4873450.0,
+ "closest_saved": [
+  {
+   "name": "Euphranta",
+   "modern": "Sirte",
+   "road": 244.2797105955084,
+   "sea": 21.874508506831333,
+   "saved": 222.40520208867707,
+   "ratio": 11.16732339468202
+  },
+  {
+   "name": "Thubactis",
+   "modern": "Gasr Ahmed",
+   "road": 235.21174687318882,
+   "sea": 12.806544784511777,
+   "saved": 222.40520208867704,
+   "ratio": 18.366526712002262
+  },
+  {
+   "name": "Gholaia",
+   "modern": "Bu Njem",
+   "road": 243.6817807134688,
+   "sea": 21.276578624791778,
+   "saved": 222.40520208867704,
+   "ratio": 11.453052909057815
+  },
+  {
+   "name": "Lepcis Magna",
+   "modern": "Leptis Magna",
+   "road": 230.98241464566476,
+   "sea": 8.628713822003823,
+   "saved": 222.35370082366094,
+   "ratio": 26.76904338357398
+  },
+  {
+   "name": "Berenice",
+   "modern": "Benghazi (Berenice)",
+   "road": 228.5316861385036,
+   "sea": 8.864550694055843,
+   "saved": 219.66713544444775,
+   "ratio": 25.780402642600528
+  },
+  {
+   "name": "Euesperides",
+   "modern": "Benghazi (Euesperides)",
+   "road": 228.50520233835692,
+   "sea": 9.038470060404288,
+   "saved": 219.46673227795264,
+   "ratio": 25.281402805038
+  },
+  {
+   "name": "Oea",
+   "modern": "Tripoli",
+   "road": 225.884744576926,
+   "sea": 8.242755640718272,
+   "saved": 217.64198893620772,
+   "ratio": 27.40403263455745
+  },
+  {
+   "name": "Hadrianopolis",
+   "modern": "Hadrianopolis",
+   "road": 227.00097980386937,
+   "sea": 10.395257028690065,
+   "saved": 216.60572277517932,
+   "ratio": 21.836976149542537
+  },
+  {
+   "name": "Ptolemais",
+   "modern": "Tolmeitha",
+   "road": 224.01914515909294,
+   "sea": 8.705760927822778,
+   "saved": 215.31338423127016,
+   "ratio": 25.73228773640558
+  },
+  {
+   "name": "Arsinoe",
+   "modern": "Tocra",
+   "road": 225.56674555075827,
+   "sea": 10.535352699908556,
+   "saved": 215.03139285084973,
+   "ratio": 21.410459808594364
+  },
+  {
+   "name": "Sabratha",
+   "modern": "Sabratha",
+   "road": 222.80111891214958,
+   "sea": 8.209565559886977,
+   "saved": 214.5915533522626,
+   "ratio": 27.139209412101575
+  },
+  {
+   "name": "Barke",
+   "modern": "Marj",
+   "road": 224.15084375007032,
+   "sea": 10.17630473123652,
+   "saved": 213.9745390188338,
+   "ratio": 22.02674248364748
+  }
+ ],
+ "closest_ratio": [
+  {
+   "name": "Carthago",
+   "modern": "Carthago",
+   "road": 209.70959335765014,
+   "sea": 5.682937139019547,
+   "saved": 204.0266562186306,
+   "ratio": 36.90162115603314
+  },
+  {
+   "name": "Hadrumetum",
+   "modern": "Sousse",
+   "road": 210.8878673095879,
+   "sea": 6.36648858485276,
+   "saved": 204.52137872473514,
+   "ratio": 33.12467532123364
+  },
+  {
+   "name": "Lepti Minus",
+   "modern": "Lamta",
+   "road": 212.17246874375857,
+   "sea": 6.470769648809359,
+   "saved": 205.70169909494922,
+   "ratio": 32.78937132042692
+  },
+  {
+   "name": "Hippo Regius",
+   "modern": "Annaba",
+   "road": 199.08337821276734,
+   "sea": 6.288588216330261,
+   "saved": 192.7947899964371,
+   "ratio": 31.657881127561488
+  },
+  {
+   "name": "Rusicade",
+   "modern": "Skikda",
+   "road": 194.56920149751292,
+   "sea": 6.527383059718866,
+   "saved": 188.04181843779406,
+   "ratio": 29.80814818395123
+  },
+  {
+   "name": "Hippo Diarrhytus",
+   "modern": "Bizerte",
+   "road": 209.56341837087032,
+   "sea": 7.051512219617538,
+   "saved": 202.5119061512528,
+   "ratio": 29.71893288192255
+  },
+  {
+   "name": "Uthina",
+   "modern": "Oudna",
+   "road": 209.16939629998205,
+   "sea": 7.597504459005769,
+   "saved": 201.5718918409763,
+   "ratio": 27.531329192185108
+  },
+  {
+   "name": "Oea",
+   "modern": "Tripoli",
+   "road": 225.884744576926,
+   "sea": 8.242755640718272,
+   "saved": 217.64198893620772,
+   "ratio": 27.40403263455745
+  },
+  {
+   "name": "Sabratha",
+   "modern": "Sabratha",
+   "road": 222.80111891214958,
+   "sea": 8.209565559886977,
+   "saved": 214.5915533522626,
+   "ratio": 27.139209412101575
+  },
+  {
+   "name": "Igilgili",
+   "modern": "Djidjelli",
+   "road": 189.5176832082089,
+   "sea": 7.049042158048971,
+   "saved": 182.46864105015993,
+   "ratio": 26.885593667759174
+  },
+  {
+   "name": "Lepcis Magna",
+   "modern": "Leptis Magna",
+   "road": 230.98241464566476,
+   "sea": 8.628713822003823,
+   "saved": 222.35370082366094,
+   "ratio": 26.76904338357398
+  },
+  {
+   "name": "Bararus",
+   "modern": "Henchir-Rougga",
+   "road": 211.6604888644726,
+   "sea": 7.97679159548654,
+   "saved": 203.68369726898607,
+   "ratio": 26.534539147824194
+  }
+ ],
+ "n_majors": 919,
+ "majors_faster_by_sea": 865,
+ "majors_median_road": 87.60679518536648,
+ "majors_median_sea": 16.765070553484822,
+ "share_majors_faster": 0.941240478781284,
+ "majors_no_gain": 54,
+ "majors_no_gain_max_road": 13.562114039240022,
+ "validation": {
+  "n": 34,
+  "median_ratio": 1.0110912716037528,
+  "median_ratio_fav": 1.1040811311052692,
+  "median_ratio_unf": 0.8959913517407828,
+  "within_factor_1_5": 0.6764705882352942,
+  "corr_log": 0.7877718324407165
+ },
+ "val_rows": [
+  {
+   "route": "Ostia-Africa (Cape Hermaeum)",
+   "wind": "favourable",
+   "reported_days": 2.0,
+   "model_days": 3.27,
+   "modelA_days": 3.62,
+   "nm": 270.0,
+   "source": "Pliny NH 19.3-4",
+   "ratio": 1.64,
+   "ratioA": 1.81
+  },
+  {
+   "route": "Messina-Alexandria",
+   "wind": "favourable",
+   "reported_days": 6.0,
+   "model_days": 6.91,
+   "modelA_days": 7.69,
+   "nm": 830.0,
+   "source": "Pliny NH 19.3-4",
+   "ratio": 1.15,
+   "ratioA": 1.28
+  },
+  {
+   "route": "Ostia-Gibraltar",
+   "wind": "favourable",
+   "reported_days": 7.0,
+   "model_days": 10.15,
+   "modelA_days": 11.22,
+   "nm": 935.0,
+   "source": "Pliny NH 19.3-4",
+   "ratio": 1.45,
+   "ratioA": 1.6
+  },
+  {
+   "route": "Ostia-Tarraco",
+   "wind": "favourable",
+   "reported_days": 4.0,
+   "model_days": 5.6,
+   "modelA_days": 6.19,
+   "nm": 510.0,
+   "source": "Pliny NH 19.3-4",
+   "ratio": 1.4,
+   "ratioA": 1.55
+  },
+  {
+   "route": "Messina-Alexandria",
+   "wind": "favourable",
+   "reported_days": 7.0,
+   "model_days": 6.91,
+   "modelA_days": 7.69,
+   "nm": 830.0,
+   "source": "Pliny NH 19.3-4",
+   "ratio": 0.99,
+   "ratioA": 1.1
+  },
+  {
+   "route": "Ostia-Narbo",
+   "wind": "favourable",
+   "reported_days": 3.0,
+   "model_days": 4.81,
+   "modelA_days": 5.32,
+   "nm": 345.0,
+   "source": "Pliny NH 19.3-4",
+   "ratio": 1.6,
+   "ratioA": 1.77
+  },
+  {
+   "route": "Puteoli-Alexandria",
+   "wind": "favourable",
+   "reported_days": 9.0,
+   "model_days": 8.83,
+   "modelA_days": 9.81,
+   "nm": 1000.0,
+   "source": "Pliny NH 19.3-4",
+   "ratio": 0.98,
+   "ratioA": 1.09
+  },
+  {
+   "route": "Corinth-Puteoli",
+   "wind": "favourable",
+   "reported_days": 4.5,
+   "model_days": 17.15,
+   "modelA_days": 23.98,
+   "nm": 670.0,
+   "source": "Philostratus VA 7.10 (wind and current)",
+   "ratio": 3.81,
+   "ratioA": 5.33
+  },
+  {
+   "route": "Abdera-Mouth of Danube",
+   "wind": "favourable",
+   "reported_days": 4.0,
+   "model_days": 5.2,
+   "modelA_days": 5.91,
+   "nm": 500.0,
+   "source": "Thucydides 2.97",
+   "ratio": 1.3,
+   "ratioA": 1.48
+  },
+  {
+   "route": "Rhegium-Puteoli",
+   "wind": "favourable",
+   "reported_days": 1.5,
+   "model_days": 2.29,
+   "modelA_days": 3.28,
+   "nm": 175.0,
+   "source": "Acts 28:13",
+   "ratio": 1.53,
+   "ratioA": 2.19
+  },
+  {
+   "route": "Carthage-Gibraltar",
+   "wind": "favourable",
+   "reported_days": 7.0,
+   "model_days": 8.73,
+   "modelA_days": 9.65,
+   "nm": 820.0,
+   "source": "Scylax Periplus 111",
+   "ratio": 1.25,
+   "ratioA": 1.38
+  },
+  {
+   "route": "Syrtes-Alexandria",
+   "wind": "favourable",
+   "reported_days": 6.5,
+   "model_days": 7.1,
+   "modelA_days": 9.11,
+   "nm": 700.0,
+   "source": "Sulpicius Severus Dial. 1.3, 1.6",
+   "ratio": 1.09,
+   "ratioA": 1.4
+  },
+  {
+   "route": "Phycus-Alexandria",
+   "wind": "favourable",
+   "reported_days": 4.5,
+   "model_days": 4.06,
+   "modelA_days": 4.61,
+   "nm": 450.0,
+   "source": "Synesius Epist. 51",
+   "ratio": 0.9,
+   "ratioA": 1.03
+  },
+  {
+   "route": "Puteoli-Tauromenium",
+   "wind": "favourable",
+   "reported_days": 2.5,
+   "model_days": 2.42,
+   "modelA_days": 2.75,
+   "nm": 205.0,
+   "source": "Philostratus VA 8.15",
+   "ratio": 0.97,
+   "ratioA": 1.1
+  },
+  {
+   "route": "Rhodes-Ephesus",
+   "wind": "favourable",
+   "reported_days": 4.0,
+   "model_days": 2.66,
+   "modelA_days": 9.79,
+   "nm": 400.0,
+   "source": "Xenophon of Ephesus",
+   "ratio": 0.67,
+   "ratioA": 2.45
+  },
+  {
+   "route": "Narbo-Utica",
+   "wind": "favourable",
+   "reported_days": 5.0,
+   "model_days": 5.58,
+   "modelA_days": 6.16,
+   "nm": 500.0,
+   "source": "Sulpicius Severus Dial. 1.3.1",
+   "ratio": 1.12,
+   "ratioA": 1.23
+  },
+  {
+   "route": "Pityuses-Gibraltar",
+   "wind": "favourable",
+   "reported_days": 3.0,
+   "model_days": 4.1,
+   "modelA_days": 4.53,
+   "nm": 390.0,
+   "source": "Diodorus 5.16.1",
+   "ratio": 1.37,
+   "ratioA": 1.51
+  },
+  {
+   "route": "Epidamnus-Rome",
+   "wind": "favourable",
+   "reported_days": 5.0,
+   "model_days": 8.74,
+   "modelA_days": 11.93,
+   "nm": 600.0,
+   "source": "Procopius Wars 7.18.4",
+   "ratio": 1.75,
+   "ratioA": 2.39
+  },
+  {
+   "route": "Cape Samonium (Crete)-Egypt",
+   "wind": "favourable",
+   "reported_days": 3.5,
+   "model_days": 2.44,
+   "modelA_days": 2.7,
+   "nm": 310.0,
+   "source": "Strabo 10.4.5",
+   "ratio": 0.7,
+   "ratioA": 0.77
+  },
+  {
+   "route": "Rhodes-Alexandria",
+   "wind": "favourable",
+   "reported_days": 3.5,
+   "model_days": 2.82,
+   "modelA_days": 3.19,
+   "nm": 325.0,
+   "source": "Diodorus 3.33",
+   "ratio": 0.8,
+   "ratioA": 0.91
+  },
+  {
+   "route": "Cimmerian Bosporus-Rhodes",
+   "wind": "favourable",
+   "reported_days": 9.5,
+   "model_days": 9.17,
+   "modelA_days": 10.33,
+   "nm": 880.0,
+   "source": "Diodorus 3.33",
+   "ratio": 0.97,
+   "ratioA": 1.09
+  },
+  {
+   "route": "Byzantium-Rhodes",
+   "wind": "favourable",
+   "reported_days": 5.0,
+   "model_days": 4.15,
+   "modelA_days": 4.78,
+   "nm": 445.0,
+   "source": "Marc. Diac. VP 55",
+   "ratio": 0.83,
+   "ratioA": 0.96
+  },
+  {
+   "route": "Byzantium-Gaza",
+   "wind": "favourable",
+   "reported_days": 10.0,
+   "model_days": 7.48,
+   "modelA_days": 8.34,
+   "nm": 855.0,
+   "source": "Marc. Diac. VP 27",
+   "ratio": 0.75,
+   "ratioA": 0.83
+  },
+  {
+   "route": "Thessalonica-Ascalon",
+   "wind": "favourable",
+   "reported_days": 12.0,
+   "model_days": 6.83,
+   "modelA_days": 7.79,
+   "nm": 800.0,
+   "source": "Marc. Diac. VP 6",
+   "ratio": 0.57,
+   "ratioA": 0.65
+  },
+  {
+   "route": "Cyrene-West Point of Crete",
+   "wind": "unfavourable",
+   "reported_days": 2.0,
+   "model_days": 4.71,
+   "modelA_days": 8.19,
+   "nm": 160.0,
+   "source": "Strabo 10.4.5",
+   "ratio": 2.35,
+   "ratioA": 4.09
+  },
+  {
+   "route": "Ascalon-Thessalonica",
+   "wind": "unfavourable",
+   "reported_days": 13.0,
+   "model_days": 19.79,
+   "modelA_days": 76.62,
+   "nm": 940.0,
+   "source": "Marc. Diac. VP 26",
+   "ratio": 1.52,
+   "ratioA": 5.89
+  },
+  {
+   "route": "Rhodes-Gaza",
+   "wind": "unfavourable",
+   "reported_days": 7.0,
+   "model_days": 3.47,
+   "modelA_days": 3.85,
+   "nm": 410.0,
+   "source": "Marc. Diac. VP 56-7 (storm)",
+   "ratio": 0.5,
+   "ratioA": 0.55
+  },
+  {
+   "route": "Alexandria-Massilia",
+   "wind": "unfavourable",
+   "reported_days": 30.0,
+   "model_days": 31.76,
+   "modelA_days": 64.76,
+   "nm": 1800.0,
+   "source": "Sulpicius Severus Dial. 1.1",
+   "ratio": 1.06,
+   "ratioA": 2.16
+  },
+  {
+   "route": "Caesarea-Rhodes",
+   "wind": "unfavourable",
+   "reported_days": 10.0,
+   "model_days": 10.35,
+   "modelA_days": 43.92,
+   "nm": 500.0,
+   "source": "Marc. Diac. VP 33-4",
+   "ratio": 1.04,
+   "ratioA": 4.39
+  },
+  {
+   "route": "Gaza-Byzantium",
+   "wind": "unfavourable",
+   "reported_days": 20.0,
+   "model_days": 19.31,
+   "modelA_days": 73.79,
+   "nm": 1000.0,
+   "source": "Marc. Diac. VP 26",
+   "ratio": 0.97,
+   "ratioA": 3.69
+  },
+  {
+   "route": "Alexandria-Cyprus",
+   "wind": "unfavourable",
+   "reported_days": 6.5,
+   "model_days": 4.89,
+   "modelA_days": 10.99,
+   "nm": 250.0,
+   "source": "Lucian Navig. 7",
+   "ratio": 0.75,
+   "ratioA": 1.69
+  },
+  {
+   "route": "Rhodes-Byzantium",
+   "wind": "unfavourable",
+   "reported_days": 10.0,
+   "model_days": 8.26,
+   "modelA_days": 26.88,
+   "nm": 445.0,
+   "source": "Marc. Diac. VP 33-4",
+   "ratio": 0.83,
+   "ratioA": 2.69
+  },
+  {
+   "route": "Puteoli-Ostia",
+   "wind": "unfavourable",
+   "reported_days": 3.0,
+   "model_days": 1.13,
+   "modelA_days": 1.25,
+   "nm": 120.0,
+   "source": "Philostratus VA 7.16",
+   "ratio": 0.38,
+   "ratioA": 0.42
+  },
+  {
+   "route": "Sidon-Chelidonian Isles",
+   "wind": "unfavourable",
+   "reported_days": 9.5,
+   "model_days": 7.59,
+   "modelA_days": 31.59,
+   "nm": 350.0,
+   "source": "Lucian Navig. 7",
+   "ratio": 0.8,
+   "ratioA": 3.32
+  }
+ ],
+ "sens": {
+  "london": {
+   "speeds": {
+    "lo": 34.99833654761768,
+    "hi": 28.190712699773744
+   },
+   "upwind": {
+    "lo": 29.920989982881807,
+    "hi": 29.920989982881807
+   },
+   "port_days": {
+    "lo": 29.420989982881796,
+    "hi": 31.92098998288184
+   },
+   "model_A": {
+    "lo": 32.38567512695148,
+    "hi": 32.38567512695148
+   }
+  },
+  "constantinople": {
+   "speeds": {
+    "lo": 19.125499128406826,
+    "hi": 16.63128350901636
+   },
+   "upwind": {
+    "lo": 23.409954227588464,
+    "hi": 15.065424092647463
+   },
+   "port_days": {
+    "lo": 16.77128934895812,
+    "hi": 19.271289348958128
+   },
+   "model_A": {
+    "lo": 36.30985852741592,
+    "hi": 36.30985852741592
+   }
+  },
+  "alexandria": {
+   "speeds": {
+    "lo": 14.312191267026309,
+    "hi": 11.424978648106814
+   },
+   "upwind": {
+    "lo": 12.193124490681782,
+    "hi": 12.12751442247039
+   },
+   "port_days": {
+    "lo": 11.659829713256455,
+    "hi": 14.159829713256455
+   },
+   "model_A": {
+    "lo": 13.261404446344995,
+    "hi": 13.261404446344995
+   }
+  },
+  "carthago": {
+   "speeds": {
+    "lo": 6.575693470280049,
+    "hi": 5.536743123086278
+   },
+   "upwind": {
+    "lo": 5.800810619206214,
+    "hi": 5.800810619206214
+   },
+   "port_days": {
+    "lo": 5.300810619206214,
+    "hi": 7.800810619206213
+   },
+   "model_A": {
+    "lo": 6.176960292482525,
+    "hi": 6.176960292482525
+   }
+  },
+  "antiochia": {
+   "speeds": {
+    "lo": 19.445804267917417,
+    "hi": 15.853462470919041
+   },
+   "upwind": {
+    "lo": 17.25011880728235,
+    "hi": 16.372294820127326
+   },
+   "port_days": {
+    "lo": 16.278152833424564,
+    "hi": 18.77815283342456
+   },
+   "model_A": {
+    "lo": 18.950774865859437,
+    "hi": 18.950774865859437
+   }
+  },
+  "hierosolyma": {
+   "speeds": {
+    "lo": 19.87865391908287,
+    "hi": 16.423613038545394
+   },
+   "upwind": {
+    "lo": 17.449113337844807,
+    "hi": 17.17025069885795
+   },
+   "port_days": {
+    "lo": 16.80596742556464,
+    "hi": 19.305967425564635
+   },
+   "model_A": {
+    "lo": 18.812912398676115,
+    "hi": 18.812912398676115
+   }
+  },
+  "gades": {
+   "speeds": {
+    "lo": 15.72901416744038,
+    "hi": 12.475111363066489
+   },
+   "upwind": {
+    "lo": 13.30214796639358,
+    "hi": 13.30214796639358
+   },
+   "port_days": {
+    "lo": 12.80214796639358,
+    "hi": 15.302147966393578
+   },
+   "model_A": {
+    "lo": 14.480216273549958,
+    "hi": 14.480216273549958
+   }
+  },
+  "massilia": {
+   "speeds": {
+    "lo": 7.045297569350051,
+    "hi": 5.878579482636759
+   },
+   "upwind": {
+    "lo": 6.175121395990357,
+    "hi": 6.175121395990357
+   },
+   "port_days": {
+    "lo": 5.675121395990356,
+    "hi": 8.175121395990356
+   },
+   "model_A": {
+    "lo": 6.597529096520173,
+    "hi": 6.597529096520173
+   }
+  },
+  "lepcis": {
+   "speeds": {
+    "lo": 10.00539873255748,
+    "hi": 8.125035923699802
+   },
+   "upwind": {
+    "lo": 8.602963189495778,
+    "hi": 8.602963189495778
+   },
+   "port_days": {
+    "lo": 8.102963189495778,
+    "hi": 10.602963189495776
+   },
+   "model_A": {
+    "lo": 9.283744381882084,
+    "hi": 9.283744381882084
+   }
+  },
+  "athenae": {
+   "speeds": {
+    "lo": 12.894382071068218,
+    "hi": 10.96435694132132
+   },
+   "upwind": {
+    "lo": 13.760325400580614,
+    "hi": 10.622206123619728
+   },
+   "port_days": {
+    "lo": 10.957860206160111,
+    "hi": 13.457860206160113
+   },
+   "model_A": {
+    "lo": 17.943491995862793,
+    "hi": 17.943491995862793
+   }
+  },
+  "eboracum": {
+   "speeds": {
+    "lo": 45.49663119557908,
+    "hi": 38.6373485477646
+   },
+   "upwind": {
+    "lo": 40.38075582307836,
+    "hi": 40.38075582307836
+   },
+   "port_days": {
+    "lo": 39.88075582307835,
+    "hi": 42.380755823078395
+   },
+   "model_A": {
+    "lo": 42.864143921320256,
+    "hi": 42.864143921320256
+   }
+  },
+  "lutetia": {
+   "speeds": {
+    "lo": 41.4307119397639,
+    "hi": 35.16072976816536
+   },
+   "upwind": {
+    "lo": 36.95723304658699,
+    "hi": 36.95723304658699
+   },
+   "port_days": {
+    "lo": 36.457233046586985,
+    "hi": 38.95723304658703
+   },
+   "model_A": {
+    "lo": 39.51625349078117,
+    "hi": 39.51625349078117
+   }
+  }
+ },
+ "n_compare_faster": 12,
+ "table1_returns": {
+  "n": 4,
+  "median_ratio_B": 0.4641643323996265,
+  "median_ratio_A": 0.9672082166199814,
+  "n_inside_A": 3
+ },
+ "table1_B_other": {
+  "n": 53,
+  "near": 0.6792452830188679,
+  "inside": 0.2641509433962264
+ },
+ "table1_A_rows_near": 25,
+ "headline_model": "B (calibrated to Casson's Table 1)"
+}

@@ -1,0 +1,58 @@
+from,to,to_text,lo,hi,model_days,ratio,inside,near,modelA_days
+Alexandria,Byzantium,Byzantium (via Myra and Rhodes),17.0,20.0,16.51,0.89,False,True,59.25
+Alexandria,Crete,Crete (via Myra and Rhodes),11.0,14.0,10.98,0.88,False,True,35.6
+Alexandria,Cyprus,Cyprus,6.5,6.5,4.89,0.75,False,False,10.99
+Alexandria,Cyrene,Cyrene,7.0,9.0,13.91,1.74,False,False,39.5
+Alexandria,Massilia,Massilia,58.0,78.0,31.76,0.47,False,False,64.76
+Alexandria,Myra,Myra,5.5,7.0,7.29,1.17,False,True,24.82
+Alexandria,Naples,Naples,50.0,70.0,28.54,0.48,False,False,61.4
+Alexandria,Rhodes,Rhodes (via Myra),7.5,10.0,8.39,0.96,True,True,32.37
+Alexandria,Rome,Rome,53.0,73.0,29.06,0.46,False,False,61.87
+Ascalon,Thessalonica,Thessalonica,13.0,19.0,19.79,1.24,False,True,76.62
+Berytus,Rhodes,Rhodes (via Syria and coast of Asia Minor),7.0,9.0,10.1,1.26,False,True,40.7
+Byzantium,Alexandria,Alexandria,9.0,9.0,6.52,0.72,False,False,7.27
+Byzantium,Gaza,Gaza,10.0,10.0,7.48,0.75,False,False,8.34
+Byzantium,Rhodes,Rhodes,5.0,5.0,4.15,0.83,False,True,4.78
+Caesarea,Rhodes,Rhodes,10.0,10.0,10.35,1.04,False,True,43.92
+Carthage,Gibraltar,Gibraltar,7.0,7.0,8.73,1.25,False,True,9.65
+Carthage,Rome,Rome,2.0,4.0,3.45,1.15,True,True,3.81
+Corinth,Naples,Naples,4.5,7.0,17.15,2.98,False,False,23.98
+Crete,Alexandria,Alexandria,3.0,4.0,3.69,1.05,True,True,4.17
+Crete,Cyrene,Cyrene,1.5,2.0,3.53,2.02,False,False,5.24
+Cyprus,Alexandria,Alexandria,2.0,2.5,3.47,1.54,False,False,5.16
+Cyprus,Rhodes,Rhodes,4.0,5.0,5.84,1.3,False,True,23.91
+Cyrene,Alexandria,Alexandria,4.5,4.5,3.9,0.87,False,True,4.43
+Cyrene,Crete,Crete,2.0,2.0,5.23,2.62,False,False,8.87
+Epidamnus,Rome,Rome,5.0,5.0,8.74,1.75,False,False,11.93
+Gaza,Byzantium,Byzantium,20.0,20.0,19.31,0.97,False,True,73.79
+Gaza,Rhodes,Rhodes (via Syria and coast of Asia Minor),10.0,12.0,11.05,1.0,True,True,46.91
+Gibraltar,Carthage,Carthage,6.0,8.0,8.73,1.25,False,True,9.65
+Gibraltar,Rome,Rome,7.0,10.0,10.15,1.19,False,True,11.22
+Massilia,Alexandria,Alexandria,20.0,30.0,13.32,0.53,False,False,14.77
+Massilia,Rome,Rome,2.0,3.0,3.86,1.54,False,False,4.26
+Myra,Alexandria,Alexandria,2.5,3.5,3.04,1.01,True,True,3.71
+Naples,Alexandria,Alexandria,9.0,11.0,8.83,0.88,False,True,9.81
+Naples,Corinth,Corinth,5.5,8.0,7.97,1.18,True,True,15.7
+Naples,Rome,Rome,3.0,3.0,1.13,0.38,False,False,1.25
+Narbo,Rome,Rome,2.5,3.5,4.81,1.6,False,False,5.32
+Narbo,Utica,Utica,5.0,5.0,5.58,1.12,False,True,6.16
+Rhodes,Alexandria,Alexandria,3.5,3.5,2.82,0.8,False,True,3.19
+Rhodes,Berytus,Berytus,3.0,4.0,3.43,0.98,True,True,3.91
+Rhodes,Byzantium,Byzantium,10.0,10.0,8.26,0.83,False,True,26.88
+Rhodes,Caesarea,Caesarea,3.0,4.0,3.28,0.94,True,True,3.66
+Rhodes,Cyprus,Cyprus,1.5,2.5,1.97,0.98,True,True,2.24
+Rhodes,Gaza,Gaza,3.0,4.0,3.47,0.99,True,True,3.85
+Rhodes,Rome,Rome,45.0,63.0,21.39,0.4,False,False,31.42
+Rhodes,Tyre,Tyre,4.0,4.0,3.35,0.84,False,True,3.79
+Rome,Alexandria,Alexandria,10.0,13.0,9.88,0.86,False,True,10.97
+Rome,Carthage,Carthage,2.0,4.0,3.45,1.15,True,True,3.81
+Rome,Epidamnus,Epidamnus,4.5,6.5,7.99,1.45,False,True,9.86
+Rome,Gibraltar,Gibraltar,7.0,7.0,10.15,1.45,False,False,11.22
+Rome,Massilia,Massilia,4.5,6.0,3.86,0.73,False,True,4.26
+Rome,Naples,Naples,1.0,1.5,1.13,0.9,True,True,1.25
+Rome,Narbo,Narbo,3.0,3.0,4.81,1.6,False,False,5.32
+Rome,Rhodes,Rhodes,7.0,11.0,10.35,1.15,True,True,14.36
+Rome,Tarraco,Tarraco,4.0,4.0,5.6,1.4,False,False,6.19
+Tarraco,Rome,Rome,3.5,5.0,5.6,1.32,False,True,6.19
+Thessalonica,Ascalon,Ascalon,12.0,12.0,6.83,0.57,False,False,7.79
+Tyre,Rhodes,Rhodes (via Syria and coast of Asia Minor),9.0,11.0,10.18,1.02,True,True,41.99

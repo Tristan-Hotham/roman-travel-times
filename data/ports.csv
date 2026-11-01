@@ -1,0 +1,212 @@
+pleiades,name,lon,lat,precision,source,sea_cell,sea_km,node,node_km,node_name,in_main_sea,net
+79664,Rutupiae,1.33232,51.29354,precise,Pleiades record (major harbour in the ancient sources),24226,7.25,6022,0.05,Rutupiae,True,True
+79646,Portus Dubris,1.30751,51.12301,precise,Pleiades record (major harbour in the ancient sources),24059,5.95,10045,0.11,Portus Dubris,True,True
+707617,Salamis (Cyprus),33.90286,35.17958,precise,Pleiades record (major harbour in the ancient sources),6874,0.74,88,0.32,Salamis,True,False
+727070,Alexandria,29.90977,31.20144,precise,Pleiades record (major harbour in the ancient sources),396,8.18,1293,1.05,Alexandria,True,True
+727192,Pelusium,32.5471,31.04263,precise,Pleiades record (major harbour in the ancient sources),594,12.62,1229,0.13,Pelousion,True,True
+678010,Ptolemais (Ake),35.07984,32.92129,precise,Pleiades record (major harbour in the ancient sources),3673,18.55,2127,0.0,Ake,True,True
+678437,Tyrus,35.20183,33.26934,precise,Pleiades record (major harbour in the ancient sources),4310,9.03,9709,0.2,Tyrus,True,True
+678393,Sidon,35.37279,33.56195,precise,Pleiades record (major harbour in the ancient sources),4734,16.42,3182,0.18,Sidon,True,True
+687902,Gaza,34.45172,31.52021,precise,Pleiades record (major harbour in the ancient sources),1573,16.89,9726,1.58,Gazaion Limen,True,True
+687839,Ascalon,34.55052,31.6648,precise,Pleiades record (major harbour in the ancient sources),1573,10.81,2217,0.21,Ashqelon,True,True
+639005,Myra,29.98545,36.25856,precise,Pleiades record (major harbour in the ancient sources),7553,13.47,3735,0.3,Myra,True,True
+639105,Side,31.39216,36.76836,precise,Pleiades record (major harbour in the ancient sources),8885,13.69,3635,0.08,Side,True,True
+658483,Seleucia Pieria,35.9286,36.12126,precise,Pleiades record (major harbour in the ancient sources),9157,10.25,3397,0.31,Seleukeia Pieria,True,True
+197488,Salona,16.48343,43.53956,precise,Pleiades record (major harbour in the ancient sources),16497,19.17,6794,0.12,Salona,True,True
+197312,Iader,15.22378,44.1155,precise,Pleiades record (major harbour in the ancient sources),17356,8.04,6836,1.12,Iader,True,True
+109008,Gesoriacum,1.61483,50.72567,precise,Pleiades record (major harbour in the ancient sources),23781,9.42,8806,0.07,Gesoriacum,True,True
+187290,Aquileia,13.37095,45.76963,precise,Pleiades record (major harbour in the ancient sources),19192,16.08,6703,0.0,Aquileia,True,True
+187578,Tergeste,13.7717,45.64915,precise,Pleiades record (major harbour in the ancient sources),19193,8.86,6682,0.63,Tergeste,True,True
+148127,Massilia,5.3825,43.29685,precise,Pleiades record (major harbour in the ancient sources),16992,13.67,7328,1.23,Massalia,True,True
+857321,Sinope,35.14304,42.02578,precise,Pleiades record (major harbour in the ancient sources),16711,7.68,9796,0.0,Sinope,True,True
+857359,Trapezus,39.72331,41.00427,precise,Pleiades record (major harbour in the ancient sources),16560,3.04,3574,0.08,Trapezous,True,True
+403253,Pisae,10.40011,43.71942,precise,Pleiades record (major harbour in the ancient sources),17180,17.99,9483,0.12,Pisae,True,True
+471899,Caralis,9.10952,39.21489,precise,Pleiades record (major harbour in the ancient sources),11624,13.13,3377,1.14,Carales,True,False
+462281,Lilybaeum,12.42966,37.80273,precise,Pleiades record (major harbour in the ancient sources),9088,4.54,4684,0.19,Lilybaeum,True,True
+462538,Messana,15.55663,38.19225,precise,Pleiades record (major harbour in the ancient sources),9876,7.79,4699,1.46,Zancle,True,True
+462503,Syracusae,15.28334,37.07008,rough,Pleiades record (major harbour in the ancient sources),7475,5.86,4703,0.27,Syracusae,True,True
+481818,Dyrrachium,19.44736,41.31634,precise,Pleiades record (major harbour in the ancient sources),14284,6.81,9697,0.0,Dyrrachion,True,True
+442810,Tarentum,17.23304,40.47379,rough,Pleiades record (major harbour in the ancient sources),13130,9.36,9085,0.78,Taras,True,True
+442509,Brundisium,17.94291,40.63866,precise,Pleiades record (major harbour in the ancient sources),13453,2.61,9094,0.2,Brundisium,True,True
+432815,Puteoli,14.12174,40.82584,precise,Pleiades record (major harbour in the ancient sources),13610,10.19,9523,0.72,Puteoli,True,True
+422995,Ostia,12.28936,41.75358,precise,Pleiades record (major harbour in the ancient sources),14721,11.53,9398,0.1,Ostia,True,True
+393480,Ravenna,12.1966,44.41572,precise,Pleiades record (major harbour in the ancient sources),17803,15.51,9079,0.95,Ravenna,True,True
+393379,Ariminum,12.56319,44.05896,precise,Pleiades record (major harbour in the ancient sources),17342,7.39,9067,0.38,Ariminum,True,True
+305090,Hippo Regius,7.75015,36.88254,precise,Pleiades record (major harbour in the ancient sources),7700,11.97,432,0.7,Hippo Regius,True,True
+373757,Berenice (Cyrenaica),20.06425,32.12452,precise,Pleiades record (major harbour in the ancient sources),365,13.32,9612,0.13,Berenice,True,True
+314921,Carthago,10.32306,36.85306,precise,Pleiades record (major harbour in the ancient sources),7454,8.69,9608,0.04,Carthago,True,True
+315248,Utica,10.06001,37.05588,precise,Pleiades record (major harbour in the ancient sources),7702,16.44,713,6.47,Membrone?,True,True
+344448,Lepcis Magna,14.29709,32.63645,precise,Pleiades record (major harbour in the ancient sources),760,8.55,1040,0.62,Lepcis Magna,True,True
+344456,Oea,13.17527,32.89759,precise,Pleiades record (major harbour in the ancient sources),1073,7.54,1062,0.14,Oea,True,True
+344282,Sabratha,12.48535,32.80495,precise,Pleiades record (major harbour in the ancient sources),1068,11.4,1063,0.32,Sabratha,True,True
+324716,Hadrumetum,10.63878,35.82587,precise,Pleiades record (major harbour in the ancient sources),5625,2.35,9602,0.37,Hadrumetum,True,True
+295279,Iol Caesarea,2.19185,36.60706,precise,Pleiades record (major harbour in the ancient sources),8208,4.34,167,0.45,Iol Caesarea,True,True
+275736,Tingi,-5.81023,35.78755,precise,Pleiades record (major harbour in the ancient sources),9240,8.61,0,0.0,Tingis,True,True
+266090,Valentia,-0.37681,39.47037,precise,Pleiades record (major harbour in the ancient sources),13377,16.45,5629,1.2,Valentia,True,True
+265849,Carthago Nova,-0.98795,37.60279,precise,Pleiades record (major harbour in the ancient sources),10711,10.18,5670,0.85,Carthago Nova,True,True
+217016,Tomis,28.64974,44.17286,precise,Pleiades record (major harbour in the ancient sources),18266,10.08,2705,0.52,Tomi,True,True
+216706,Apollonia Pontica,27.69427,42.42036,precise,Pleiades record (major harbour in the ancient sources),16027,3.58,2411,0.16,Apollonia Pontica,True,True
+216882,Mesembria,27.72444,42.65958,precise,Pleiades record (major harbour in the ancient sources),16332,0.49,2714,0.07,Mesembria,True,True
+285512,Rusaddir,-2.93878,35.2922,precise,Pleiades record (major harbour in the ancient sources),7197,9.69,216,0.01,Rusaddir,True,True
+246347,Narbo,3.0042,43.18362,precise,Pleiades record (major harbour in the ancient sources),16981,18.59,7253,0.45,Narbo Martius,True,True
+246382,Emporiae,3.11455,42.13342,precise,Pleiades record (major harbour in the ancient sources),15821,7.67,5399,0.22,Emporiae,True,True
+256063,Carteia,-5.40939,36.18519,precise,Pleiades record (major harbour in the ancient sources),9754,10.16,5379,1.61,Carteia,True,True
+256177,Gades,-6.29312,36.52928,precise,Pleiades record (major harbour in the ancient sources),10707,13.71,9911,0.05,Gades,True,True
+256338,Olisipo,-9.13551,38.70717,precise,Pleiades record (major harbour in the ancient sources),14195,19.06,4962,0.27,Olisipo,True,True
+599636,Halicarnassus,27.42215,37.0404,precise,Pleiades record (major harbour in the ancient sources),8607,7.52,4514,0.29,Halikarnassos,True,True
+501609,Sestos,26.38927,40.2134,precise,Pleiades record (major harbour in the ancient sources),13634,20.26,9533,2.64,Abydos,True,True
+570483,Methone,21.70444,36.81435,precise,Pleiades record (major harbour in the ancient sources),7268,8.24,1532,0.29,Methone,True,True
+570567,Patrae,21.73852,38.24326,precise,Pleiades record (major harbour in the ancient sources),10155,9.84,1392,0.38,Patrae,True,True
+589886,Kydonia,24.01869,35.51578,precise,Pleiades record (major harbour in the ancient sources),5486,9.38,116,0.0,Kydonia,True,False
+580062,Piraeus,23.64461,37.93722,precise,Pleiades record (major harbour in the ancient sources),9644,10.22,1680,0.71,Choma?,True,True
+550434,Alexandria Troas,26.15756,39.7517,precise,Pleiades record (major harbour in the ancient sources),12826,17.43,4662,0.24,Antigoneia,True,True
+,Byzantium,28.978,41.00803,Itiner-e junction,Itiner-e junction 'Byzantium',14601,13.47,9707,0.0,Byzantium,True,True
+,Tarraco,1.23314,41.12153,Itiner-e junction,Itiner-e junction 'Tarraco',14936,15.01,5402,0.0,Tarraco,True,True
+,Caesarea Maritima,34.90042,32.50183,Itiner-e junction,Itiner-e junction 'Caesarea',3032,12.1,2158,0.0,Caesarea,True,True
+,Cyzicus,27.88612,40.38998,Itiner-e junction,Itiner-e junction 'Cyzicus',13967,14.97,4646,0.0,Cyzicus,True,True
+,Berytus,35.50624,33.89513,Itiner-e junction,Itiner-e junction 'Berytus',5341,8.6,3184,0.0,Berytus,True,True
+,Ioppe,34.74993,32.05308,Itiner-e junction,Itiner-e junction 'Ioppe',2183,6.86,9710,0.0,Ioppe,True,True
+,Paraetonium,27.23439,31.35394,Itiner-e junction,Itiner-e junction 'Paraitonion',301,10.48,1330,0.0,Paraitonion,True,True
+,Apollonia (Cyrenaica),21.97049,32.9026,Itiner-e junction,Itiner-e junction 'Apollonia',1305,7.62,985,0.0,Apollonia,True,True
+,Lechaion,22.88018,37.93024,Itiner-e junction,Itiner-e junction 'Lechaion',9641,23.43,1574,0.0,Lechaion,True,True
+,Kenchreai,22.99253,37.88239,Itiner-e junction,Itiner-e junction 'Kenchreai',9641,12.86,1614,0.0,Kenchreai,True,True
+,Rhegium,15.65055,38.11175,Itiner-e junction,Itiner-e junction 'Rhegion',9876,13.98,9508,0.0,Rhegion,True,True
+,Neapolis,14.24832,40.83791,Itiner-e junction,Itiner-e junction 'Parthenope',13610,20.7,10289,0.0,Parthenope,True,True
+,Hydruntum,18.49116,40.14617,Itiner-e junction,Itiner-e junction 'Hydruntum',12800,11.15,9202,0.0,Hydruntum,True,True
+,Ancona,13.51865,43.61127,Itiner-e junction,Itiner-e junction 'Ancona',16836,2.67,9061,0.0,Ancona,True,True
+,Antium,12.62945,41.44762,Itiner-e junction,Itiner-e junction 'Antium',14421,6.43,9241,0.0,Antium,True,True
+90993556,Benalúa,-0.49619,38.34137,precise,Pleiades port type: port,11781,9.03,5636,0.45,Lucentum,True,True
+960087430,Peyriac-de-Mer,2.9579,43.08788,precise,Pleiades port type: port,16981,19.46,7253,11.22,Narbo Martius,True,True
+927235843,Portus (Trajan's harbour),12.25948,41.7785,precise,Pleiades port type: port,14721,11.95,9244,0.59,Portus,True,True
+798536747,Porto romano,14.9328,40.26792,precise,Pleiades port type: harbor,13128,14.11,9183,10.37,Skidros,True,True
+79280,‘Abone’,-2.65503,51.49211,precise,Pleiades port type: port,24590,22.05,5954,1.25,Abona,True,True
+707462,Amathous,33.13708,34.71226,precise,Pleiades port type: port,5757,10.45,72,0.53,Amathous,True,False
+707526,Karpasia,34.36993,35.62621,precise,Pleiades port type: port,7824,3.86,112,0.0,Karpasia,True,False
+707553,Lakki,32.39191,35.03696,precise,Pleiades port type: port,6419,12.12,58,1.23,Marion,True,False
+707502,Dreamer’s Bay,32.96223,34.57399,precise,Pleiades port type: port,5540,8.1,69,11.56,Kourion,True,False
+7796058,Kition: Military Port and Shipsheds,33.63293,34.92029,precise,Pleiades port type: port,6420,4.47,83,0.31,Kition,True,False
+716540,Catabathmus Maior/Plynos Limen/Tetrapyrgia,25.15264,31.55271,precise,Pleiades port type: port,292,8.45,9611,0.0,Catabathmus Maior,True,True
+727153,Mareia?/Philoxenite,29.65639,30.99482,precise,Pleiades port type: port,249,14.83,1335,10.58,Alexandria,True,True
+691763998,"Saint-Martin-le-Bas, Gruissan",3.06471,43.08612,precise,Pleiades port type: port,16981,10.82,7253,12.16,Narbo Martius,True,True
+668206,Balanea/Leukas,35.94331,35.17469,precise,Pleiades port type: port,7587,18.03,3205,0.72,Balanea,True,True
+668216,Byblos,35.64612,34.11925,precise,Pleiades port type: port,5556,15.18,3185,0.02,Byblos,True,True
+668295,Leukos Limen,35.77642,35.60785,precise,Pleiades port type: port,8085,9.66,3284,4.51,Antioch,True,True
+668290,Laodicea,35.77663,35.51892,precise,Pleiades port type: port,8085,9.4,3209,0.2,Laodicea,True,True
+617582458,Sorna Roman Villa and Church,13.5892,45.2022,precise,Pleiades port type: port,18729,9.08,7150,2.1,Parentium,True,True
+648781,Soloi/Pompeiopolis,34.53922,36.74006,precise,Pleiades port type: port,9923,6.89,9774,0.26,Soloi,True,True
+648612,Corycus,34.15417,36.46528,precise,Pleiades port type: port,9402,6.13,3454,0.36,Korykos,True,True
+648691,Lamos,34.23992,36.55701,precise,Pleiades port type: port,9402,7.13,3439,0.37,Lamos,True,True
+639042,Patara/Arsinoe,29.3145,36.26179,precise,Pleiades port type: port,7551,9.57,3750,0.33,Patara,True,True
+631720472,Saintes-Marie-de-la-Mer Roman Port,4.43127,43.44794,precise,Pleiades port type: port,17163,10.25,10095,2.06,road junction near Rhodanousia,True,True
+638980,Magydos,30.79996,36.8488,precise,Pleiades port type: port,8882,14.14,3646,0.05,Magydos,True,True
+638745,Andriake,29.95551,36.22592,precise,Pleiades port type: port,7552,10.07,3735,4.42,Myra,True,True
+658368,Aigai(ai)/Aegeae,35.78949,36.76968,precise,Pleiades port type: port,10405,3.9,3425,0.0,Aigaiai,True,True
+658541,Myriand(r)os,36.11036,36.56585,precise,Pleiades port type: port,10175,13.86,3395,4.59,Alexandria ad Issum,True,True
+197448,Pola,13.84112,44.86957,precise,Pleiades port type: port,18260,12.53,6688,0.66,Pola,True,True
+197505,Senia,14.90087,44.99047,precise,Pleiades port type: port,18416,6.01,6824,0.0,Senia,True,True
+110448342,Bosham Harbour,-0.85547,50.83219,precise,Pleiades port type: port,23975,17.17,6435,5.13,Noviomagus,True,True
+187397,Gradus,13.39594,45.6784,precise,Pleiades port type: port,19192,6.87,6703,10.33,Aquileia,True,True
+148107,Lattara,3.90685,43.56557,precise,Pleiades port type: port,17327,14.62,7258,7.12,Foro Domiti,True,True
+157836,Col. Forum Iulii,6.73603,43.43283,precise,Pleiades port type: port,16815,17.0,7406,0.18,Forum Iulii,True,True
+157812,Antipolis,7.1209,43.58059,precise,Pleiades port type: port,17164,8.14,8988,9.51,Dinia,True,True
+818739154,Venice,12.33618,45.44198,precise,Pleiades port type: port,18880,11.09,9316,12.37,Altinum,True,True
+857254,Oinoe/‘Caena’,37.28536,41.12624,precise,Pleiades port type: port,16204,6.43,3588,4.69,Polemonion,True,True
+857285,Polemonion/Side,37.50022,41.03088,precise,Pleiades port type: port,16205,11.89,9794,0.52,Phabda,True,True
+403280,Telamon,11.13327,42.55532,precise,Pleiades port type: port,15716,9.37,9513,9.15,Populonium,True,True
+403235,Luna,10.01679,44.06399,precise,Pleiades port type: port,17341,18.74,9485,13.57,Boacias,True,True
+403262,Portus Veneris,9.83283,44.04829,precise,Pleiades port type: port,17497,4.59,9485,13.59,Boacias,True,True
+403274,S. Rocchino,10.289,43.875,precise,Pleiades port type: port,17180,14.14,9484,11.45,Pisae,True,True
+403288,Vada Volaterrana,10.44801,43.35944,precise,Pleiades port type: port,16481,13.32,9310,5.66,Ad Fines,True,True
+403206,Falesia,10.54049,42.92603,precise,Pleiades port type: port,16154,9.13,9458,7.63,Populonia,True,True
+403261,Portus Pisanus?,10.34784,43.67968,precise,Pleiades port type: port,17010,12.8,9321,2.76,Portus Pisanus?,True,True
+471988,Othoca,8.61145,39.87942,precise,Pleiades port type: port,12580,21.42,3372,0.95,Othoca,True,False
+471985,Nymphaios Limen,8.20545,40.59371,precise,Pleiades port type: port,13585,6.83,9769,10.57,Nure,True,False
+471987,Olbia,9.50043,40.923,precise,Pleiades port type: port,13912,5.19,3391,0.43,Olbia,True,False
+472048,Alalie/Aleria,9.51048,42.10249,precise,Pleiades port type: port,15271,8.57,7164,0.39,Alalie,True,False
+472024,Sulci(s),8.45147,39.07149,precise,Pleiades port type: port,11622,10.55,3388,1.16,Sulcis,True,False
+472035,Turris Libisonis,8.39566,40.83724,precise,Pleiades port type: port,13910,7.5,3385,1.05,Turris Libisonis,True,False
+462187,Drepanum,12.51782,38.01713,precise,Pleiades port type: port,9603,4.58,4685,1.11,Drepanum,True,True
+462426,Phoinikous Limen,15.10212,36.79734,precise,Pleiades port type: anchorage,6998,6.15,4698,13.0,Portus Pachyni,True,True
+462385,Naustathmus Portus,15.22316,36.96455,precise,Pleiades port type: port,7475,8.73,4703,12.63,Syracusae,True,True
+462530,Ulixis Portus,15.11322,37.52905,precise,Pleiades port type: port,8258,11.85,4700,3.75,Katane,True,True
+413069,Castellum Firmanorum,13.79433,43.18374,precise,Pleiades port type: port,16315,4.85,9060,2.38,Castellum Firmanorum,True,True
+413194,Martanum,11.69647,42.23437,precise,Pleiades port type: port,15282,8.02,10309,2.5,Graviscae,True,True
+481896,Lissus,19.64392,41.78294,precise,Pleiades port type: port,14740,22.89,9696,0.18,Lissus,True,True
+442607,Hadrianou Hormos,18.30938,40.37977,precise,Pleiades port type: port,13131,3.86,9052,12.31,Lupiae,True,True
+442632,Leuca/Portus Sallentinus,18.35694,39.801,precise,Pleiades port type: port,12437,6.57,9090,0.35,Leuca,True,True
+442457,Alburnus Portus,14.95978,40.48742,precise,Pleiades port type: port,13128,11.33,9184,5.66,Skidros,True,True
+442536,Castrum Minervae/Athenaion/Limen Aphrodites,18.4282,40.00431,precise,Pleiades port type: port,12623,4.03,9092,3.4,Portus Sallentinus,True,True
+433061,Pyrgi,11.9627,42.01553,precise,Pleiades port type: port,14990,15.23,9036,0.52,Pyrgi,True,True
+432941,Misenum,14.08488,40.78628,precise,Pleiades port type: port,13610,6.12,9438,3.78,Baiae,True,True
+432734,Caieta,13.57099,41.21407,precise,Pleiades port type: port,14104,6.8,9437,0.6,Caieta Pr.,True,True
+432808,Cumae/Kyme (Campanian),14.05638,40.84795,precise,Pleiades port type: port,13610,7.72,10306,0.04,Cumae,True,True
+422960,Lavinium,12.48072,41.66447,precise,Pleiades port type: port,14575,14.97,9408,0.14,Lavinium,True,True
+422831,Alsium,12.10126,41.93405,precise,Pleiades port type: port,14858,15.79,9037,1.46,Alsium,True,True
+452457,Sybaris/Thurii/Copia,16.49426,39.71733,precise,Pleiades port type: port,12247,0.55,9050,0.14,Sybaris,True,True
+452323,Emporion,15.97637,38.48733,precise,Pleiades port type: port,10361,15.85,9145,1.07,Emporion,True,True
+306176341,Komaros Limen,20.70561,39.00383,precise,Pleiades port type: port,11259,7.73,1871,1.58,Nikopolis,True,True
+305095,Igilgili,5.76617,36.8213,precise,Pleiades port type: port,7952,7.06,251,0.14,Igilgili,True,True
+305142,Saldae,5.05796,36.74085,precise,Pleiades port type: port,7948,4.05,246,0.77,Saldae,True,True
+305137,Rusicade/Thapsus,6.90558,36.88144,precise,Pleiades port type: port,7955,6.04,438,0.34,Rusicade,True,True
+373879,Ptolemais/Barkes Limen,20.95385,32.70713,precise,Pleiades port type: port,1121,15.89,9610,0.03,Ptolemais,True,True
+386176625,Kothon,12.46583,37.86467,precise,Pleiades port type: port,9349,8.61,4684,7.63,Lilybaeum,True,True
+383770,Savo/Vicus Virginis?,8.47723,44.31108,precise,Pleiades port type: port,17798,10.73,9350,0.98,Savo,True,True
+383664,Genua,8.93155,44.40623,precise,Pleiades port type: port,17801,18.46,9499,1.62,Genua,True,True
+324767,Lepti Minus,10.86633,35.6781,precise,Pleiades port type: port,5409,11.98,669,0.31,Lepti Minus,True,True
+324802,Ruspe,11.00097,35.01429,precise,Pleiades port type: port,4375,3.6,693,10.12,Usilla,True,True
+324827,Thapsus,11.04271,35.62137,precise,Pleiades port type: port,5205,7.9,850,13.48,Alipota?,True,True
+324817,Sullecthum,11.04293,35.39379,precise,Pleiades port type: port,5006,4.0,849,1.29,Sullecthum,True,True
+353701933,La Fonteta,-0.65028,38.10155,precise,Pleiades port type: port,11570,6.58,5637,13.24,Illikitanos Limen,True,True
+299493180,Limantepe,26.77575,38.36269,precise,Pleiades port type: port,11061,5.93,9851,0.0,Polichne,True,True
+275703,Septem,-5.31658,35.88824,precise,Pleiades port type: port,9243,8.52,9538,0.33,Septem,True,True
+275594,Asilah,-6.03477,35.46228,precise,Pleiades port type: port,8712,10.53,2,8.87,Zilil,True,True
+267084998,Rhion,21.75773,38.38804,rough,Pleiades port type: port,10155,20.62,1852,6.6,Naupaktos,True,True
+266006,Portus Sucronis,-0.25592,39.1651,precise,Pleiades port type: port,12890,12.75,5639,1.27,Portus Sucronis,True,True
+216744,Callatis,28.58275,43.81715,precise,Pleiades port type: port,17818,9.32,2596,1.05,Callatis,True,True
+285504,Portus Sigensis,-1.46751,35.29689,precise,Pleiades port type: port,6974,9.89,148,0.0,Portus Sigensis,True,True
+285503,Portus Magnus,-0.26602,35.80792,precise,Pleiades port type: port,7452,4.66,152,0.01,Portus Magnus,True,True
+246588,R(h)oda,3.17382,42.26488,precise,Pleiades port type: port,15821,13.97,5521,0.16,Rhoda,True,True
+246571,Portus Veneris,3.10766,42.52063,precise,Pleiades port type: port,16274,2.74,7251,4.51,Iliberris,True,True
+236716,Vicus Spacorum,-8.71243,42.23135,precise,Pleiades port type: port,18245,11.18,4887,10.13,Iria Flavia,True,True
+236613,Portus Victoriae Iuliobrigensium,-3.808,43.46082,precise,Pleiades port type: port,18550,8.74,5315,6.59,road junction near Portus Victoriae Iuliobrigensium,True,True
+236610,Portus Blendium,-4.04199,43.42652,precise,Pleiades port type: port,18549,5.17,9935,1.07,Portus Blendium,True,True
+236396,Cale,-8.61023,41.14997,precise,Pleiades port type: port,16980,14.28,4795,11.35,Bracara Augusta,True,True
+256416,Salduba/Saltum,-5.061,36.46341,precise,Pleiades port type: port,10013,6.81,5374,10.59,San Pedro de Alcántara,True,True
+256235,Iulia Traducta/Iulia Ioza/Tingentera,-5.44774,36.12977,precise,Pleiades port type: port,9496,7.81,5379,7.94,Carteia,True,True
+599799,Miletus,27.27881,37.53046,precise,Pleiades port type: port,9661,21.42,4532,0.35,Miletos,True,True
+599578,Colophon/Colophon ad Mare/Notion,27.20085,37.99528,precise,Pleiades port type: port,10172,20.83,4591,0.0,Notion,True,True
+501450,Kallipo(u)lis,26.68078,40.4139,precise,Pleiades port type: port,13796,9.56,2039,0.94,Kallipoulis,True,True
+501334,Aianteion,26.23703,39.98159,precise,Pleiades port type: port,13155,19.92,4679,2.81,Ilium,True,True
+501523,Neapolis (Kavalla),24.41404,40.93432,precise,Pleiades port type: port,13951,18.63,2010,0.26,Neapolis,True,True
+570099,Arainon,22.52294,36.69619,precise,Pleiades port type: harbor,7271,14.8,9639,7.93,Gytheion,True,True
+570702,Tainaron (settlement),22.4865,36.40136,precise,Pleiades port type: port,6812,3.07,9652,7.65,Kainepolis,True,True
+570622,Pogon,23.25,37.75,rough,Pleiades port type: port,9383,4.42,1613,13.9,Epidauros,True,True
+570673,Skandeia,23.07378,36.2299,precise,Pleiades port type: port,6587,7.51,1495,1.49,Skandeia,True,False
+570161,Boukephalos,23.12757,37.82931,precise,Pleiades port type: port,9641,5.55,1614,13.24,Kenchreai,True,True
+570390,Kyllene,21.14387,37.93324,precise,Pleiades port type: port,9640,7.49,9638,0.0,Kyllene,True,True
+570268,Gyth(e)ion,22.56234,36.76366,precise,Pleiades port type: port,7271,14.07,9639,0.4,Gytheion,True,True
+570274,Halieis,23.15263,37.31509,precise,Pleiades port type: port,8583,9.26,9660,0.57,Halieis,True,True
+570292,Hermion(e),23.24359,37.38522,precise,Pleiades port type: port,8583,6.29,1617,0.0,Hermione,True,True
+570501,Nauplia,22.80871,37.56812,precise,Pleiades port type: harbor,8856,9.12,1608,4.59,Tiryns,True,True
+570543,Pagai,23.19712,38.08492,precise,Pleiades port type: port,9641,23.51,1770,0.77,Pagai,True,True
+570555,"Panormos (settlement, port)",21.81667,38.31667,precise,Pleiades port type: port,10155,19.0,9635,3.12,Rhion Pr.,True,True
+511354,Parium/Col. Gemella Iulia *Hadriana,27.07026,40.4237,precise,Pleiades port type: port,13797,9.01,4650,0.37,Parium,True,True
+513433066,Tell es-Sakan,34.40463,31.47582,precise,Pleiades port type: port,1383,17.44,2223,6.64,Gaza,True,True
+589949,Myrtos,25.59038,35.00731,precise,Pleiades port type: port,4881,8.61,132,3.27,Hierapytna,True,False
+589900,Lato pros Kamara,25.71726,35.19078,precise,Pleiades port type: port,5282,6.15,9565,7.58,Olous,True,False
+589989,Phalasarna,23.57007,35.51096,precise,Pleiades port type: port,5485,4.17,122,7.83,Kisamos,True,False
+589690,Kommos,24.76082,35.01323,precise,Pleiades port type: port,4669,12.37,9559,9.99,Lasaia,True,False
+589802,Heraklion,25.13327,35.33754,precise,Pleiades port type: port,5492,12.33,143,0.06,Heraklion,True,False
+580071,Phaleron Limen,23.625,37.875,rough,Pleiades port type: port,9644,3.91,1680,7.83,Choma?,True,True
+580057,Panormos,24.06177,37.69817,precise,Pleiades port type: harbor,9387,7.66,1734,4.28,Thorikos,True,True
+580044,Oropos,23.7902,38.31998,precise,Pleiades port type: port,10615,9.54,1763,0.06,Oropos,True,True
+580072,Phaleron,23.70625,37.93731,precise,Pleiades port type: port,9644,11.4,1682,0.75,Phaleron,True,True
+541117,Styra,24.26176,38.14584,precise,Pleiades port type: port,10157,9.81,1662,2.18,Philagra,True,True
+530892,Hieros Limen Herakleous,20.93339,38.67141,precise,Pleiades port type: anchorage,10835,11.81,1854,9.46,Dioryktos,True,True
+530824,Bouthroton,20.02078,39.74583,precise,Pleiades port type: port,12266,10.49,1958,0.23,Bouthroton,True,True
+531051,Pelodes Limen,20.03049,39.78414,precise,Pleiades port type: port,12266,14.81,1958,4.28,Bouthroton,True,True
+531016,Oiniadai,21.19638,38.40707,precise,Pleiades port type: port,10387,8.9,9686,0.66,Oiniadai,True,True
+531019,Onchesmos,20.01231,39.87618,precise,Pleiades port type: port,12631,16.71,9693,0.44,Onchesmos,True,True
+520988,Chalcedon,29.02579,40.98339,precise,Pleiades port type: port,14601,10.17,3528,1.03,Himeros,True,True
+521014,Eleutheriou/Kaisariou Limen/Theodosiacus Portus,28.875,40.875,rough,Pleiades port type: port,14600,4.73,2079,13.19,Strongylion,True,True
+524143100,Amnisos,25.2,35.32,precise,Pleiades port type: port,5493,11.76,140,4.24,Knosos,True,False

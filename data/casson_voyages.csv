@@ -1,0 +1,35 @@
+route,nm,days,knots,source,wind,days_text,knots_text
+Ostia-Africa (Cape Hermaeum),270.0,2.0,6.0,Pliny NH 19.3-4,favourable,2,6
+Messina-Alexandria,830.0,6.0,5.8,Pliny NH 19.3-4,favourable,6,5.8
+Ostia-Gibraltar,935.0,7.0,5.6,Pliny NH 19.3-4,favourable,7,5.6
+Ostia-Tarraco,510.0,4.0,5.3,Pliny NH 19.3-4,favourable,4,5.3
+Messina-Alexandria,830.0,7.0,5.0,Pliny NH 19.3-4,favourable,7,5
+Ostia-Narbo,345.0,3.0,4.8,Pliny NH 19.3-4,favourable,3,4.8
+Puteoli-Alexandria,1000.0,9.0,4.6,Pliny NH 19.3-4,favourable,9,4.6
+Corinth-Puteoli,670.0,4.5,6.2,Philostratus VA 7.10 (wind and current),favourable,4.5,6.2
+Abdera-Mouth of Danube,500.0,4.0,5.0,Thucydides 2.97,favourable,4,5
+Rhegium-Puteoli,175.0,1.5,5.0,Acts 28:13,favourable,1.5,5
+Carthage-Gibraltar,820.0,7.0,4.9,Scylax Periplus 111,favourable,7,4.9
+Syrtes-Alexandria,700.0,6.5,4.5,"Sulpicius Severus Dial. 1.3, 1.6",favourable,6.5,4.5
+Phycus-Alexandria,450.0,4.5,4.3,Synesius Epist. 51,favourable,4.5,4.3
+Puteoli-Tauromenium,205.0,2.5,3.4,Philostratus VA 8.15,favourable,2.5,3.4
+Rhodes-Ephesus,400.0,4.0,4.0,Xenophon of Ephesus,favourable,4,4
+Narbo-Utica,500.0,5.0,4.1,Sulpicius Severus Dial. 1.3.1,favourable,5,4.1
+Pityuses-Gibraltar,390.0,3.0,5.4,Diodorus 5.16.1,favourable,3,5.4
+Epidamnus-Rome,600.0,5.0,5.0,Procopius Wars 7.18.4,favourable,5,5
+Cape Samonium (Crete)-Egypt,310.0,3.5,3.75,Strabo 10.4.5,favourable,3 or 4,4.3 or 3.2
+Rhodes-Alexandria,325.0,3.5,3.9,Diodorus 3.33,favourable,3.5,3.9
+Cimmerian Bosporus-Rhodes,880.0,9.5,3.7,Diodorus 3.33,favourable,9.5,3.7
+Byzantium-Rhodes,445.0,5.0,3.7,Marc. Diac. VP 55,favourable,5,3.7
+Byzantium-Gaza,855.0,10.0,3.5,Marc. Diac. VP 27,favourable,10,3.5
+Thessalonica-Ascalon,800.0,12.0,2.7,Marc. Diac. VP 6,favourable,12,2.7
+Cyrene-West Point of Crete,160.0,2.0,3.3,Strabo 10.4.5,unfavourable,2,3.3
+Ascalon-Thessalonica,940.0,13.0,3.0,Marc. Diac. VP 26,unfavourable,13,3
+Rhodes-Gaza,410.0,7.0,2.6,Marc. Diac. VP 56-7 (storm),unfavourable,7,2.6
+Alexandria-Massilia,1800.0,30.0,2.5,Sulpicius Severus Dial. 1.1,unfavourable,30,2.5
+Caesarea-Rhodes,500.0,10.0,2.0,Marc. Diac. VP 33-4,unfavourable,10,2
+Gaza-Byzantium,1000.0,20.0,2.0,Marc. Diac. VP 26,unfavourable,20,2
+Alexandria-Cyprus,250.0,6.5,1.8,Lucian Navig. 7,unfavourable,6.5,1.8
+Rhodes-Byzantium,445.0,10.0,1.8,Marc. Diac. VP 33-4,unfavourable,10,1.8
+Puteoli-Ostia,120.0,3.0,1.8,Philostratus VA 7.16,unfavourable,3,1.8
+Sidon-Chelidonian Isles,350.0,9.5,1.5,Lucian Navig. 7,unfavourable,9.5,1.5
