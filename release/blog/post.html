@@ -1,0 +1,129 @@
+<!-- wp:paragraph -->
+<p><em>My map of Roman roads said Carthage was 210 days' walk from Rome. You told me, quite rightly, that nobody walked there. So I added the sea, with sailing speeds from ancient voyage reports and the summer winds that made Egypt close to Rome and Rome far from Egypt. Carthage is now 6 days away.</em></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/roman-travel-times/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.23863542">Read the paper</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:paragraph -->
+<p>Recently I published <a href="https://blog.tristanhotham.com/2026/10/31/roman-roads/">a map of every Roman road</a> in Itiner-e, the new open dataset of the roads of the Roman Empire, with a model of how many days it took to walk from Rome to anywhere. The answers were long: 81 days to London, 180 to Alexandria, and 210 to Carthage, because a road-only traveller has to go through Spain and round the whole of North Africa to get there. The most common reply was simple. They had ships.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>They did, and the Mediterranean was the real highway of the empire. So this follow-up adds the sea: 211 ancient ports from the Pleiades gazetteer and the ancient voyage reports, joined to the roads and to each other across open water, with sailing speeds you can check against the ancient record.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_side_by_side.png|Two maps of the Roman Empire side by side, roads coloured by days on foot from Rome. On the left, roads only: most of the empire is blue and purple, months away, with North Africa the furthest. On the right, road and sea in summer: the whole Mediterranean, its coasts and North Africa turn red, orange and gold, within a few weeks of Rome, while Britain, the Danube and the Black Sea stay green.|Days on foot from Rome: roads only (left), and with the sea in summer (right).}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How fast did a Roman ship sail?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In 1951 the historian Lionel Casson collected every ancient voyage he could find where both the distance and the time were recorded: Pliny's record runs from Ostia, Paul's passage to Puteoli in Acts, the letters of Synesius, the travels of Porphyry of Gaza. With the wind behind them his 24 voyages made a median of 4.7 knots; against it, his 10 voyages made 2.0. Those numbers are the starting point. Casson also gave a table of his own estimates: how many days a ship took between 57 pairs of named ports, from Rome to Carthage (2 to 4) to Alexandria to Marseille (58 to 78). I used that table to calibrate the model. The speeds that fit it best are 5.2 knots with the wind behind, 3.7 where my sources name no prevailing summer wind (about 165 km a day), and 1.0 to 1.6 knots dead into the wind, all inside the ranges Casson himself gives.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The wind is the interesting part. From about mid-May to mid-September the etesians blow down the Aegean from the north, and from the north-west around Crete and across to Egypt. Casson estimated that a grain ship took 10 to 13 days from Rome to Alexandria, and 53 to 73 to get back. The calibrated model sails out in 11 days, inside his range, and its way home starts north, towards Crete, before it turns west, much as the grain ships did. But it gets home in 30 days, far quicker than Casson's estimate; more on that below.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_wind.png|Map of the central and eastern Mediterranean with arrows for the summer winds, blowing south in the Aegean and south-east from Sicily to Egypt. A red line runs almost straight from Ostia to Alexandria; a black dashed line comes back the long way: north from Alexandria towards Rhodes, west past Crete, then north past Sicily to Ostia.|The wind model: 11 days out to Alexandria, 30 back (Casson: 53 to 73).}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">From 210 days to 6</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>With ships allowed in summer, Carthage comes 36 times closer: 5.8 days, mostly a day's walk to Ostia, a day waiting for a ship and a few days at sea. Leptis Magna falls from 231 days to 9, Alexandria from 180 to 12, Jerusalem from 157 to 17, Cádiz from 116 to 13. London, by ship round Spain and up the Atlantic, falls from 81 to 30.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_cities.png|Dot chart of twelve cities comparing days from Rome on foot by road only (grey dots) with road and sea in summer (coloured dots): Leptis Magna 231 to 9, Carthage 210 to 6, Alexandria 180 to 12, Jerusalem 157 to 17, Antioch 128 to 17, Cádiz 116 to 13, York 94 to 40, London 81 to 30, Constantinople 75 to 17, Athens 67 to 11, Paris 67 to 37 and Marseille 45 to 6.|Days from Rome on foot: roads only (grey) and with the sea in summer (coloured).}}
+
+<!-- wp:pullquote -->
+<figure class="wp-block-pullquote"><blockquote><p>The wind made the sea one-way. Egypt was close to Rome, but Rome was far from Egypt.</p></blockquote></figure>
+<!-- /wp:pullquote -->
+
+<!-- wp:paragraph -->
+<p>Not everywhere gains equally. Constantinople falls from 75 days to 17, 16 of them beating north up the Aegean against the etesians. It is the least certain number here: with Casson's slower median speeds it would be 36. For an imperial courier, riding 80 km a day, the ship saves less: 16 days against 22 by road. Of the 919 major ancient places on the network, 94% are quicker to reach by sea; the 54 that are not are all in central Italy, a few days' walk from Rome.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">A smaller empire</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>By road alone, only 3.9% of the land of the provinces was within a month's walk of Rome. With the sea in summer, 59% was. For a courier using roads and ships, 92%.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_shares.png|Bar chart of the share of the provinces' land within 7, 14 and 30 days of Rome. Within 30 days: 3.9 per cent by road only on foot, 59 per cent with the sea on foot, 53 per cent by road only for a courier and 92 per cent for a courier with the sea.|Share of the empire's land within a week, a fortnight and a month of Rome.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Is the model any good?</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>I checked both versions against Casson. The calibrated model lands inside his estimated range for 14 of his 57 passages and within a quarter of it for 36 (63%); its median passage takes 1.01 times his estimate. A simpler version that uses his median speeds unchanged, with the speed into the wind fitted to the 63-day voyage home, manages only 25 within a quarter and runs slow almost everywhere, with a median of 1.38 times his estimate. On the 34 voyages that ancient writers actually recorded, the calibrated model's median is 1.01 times the reported time.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>So the map uses the calibrated model, with one honest caveat. It is too quick on the long voyages home from the east: from Alexandria or Rhodes to Italy it takes about half the time Casson estimates. No simple pair of wind speeds gets both those voyages and the rest of his table right; the real voyages home were slowed by more than the wind direction, by waiting, calms and coasting. Since this map measures journeys from Rome, which mostly ran with the wind, that matters less here, and the range shown for every city in the interactive version includes the slower model's answer.</p>
+<!-- /wp:paragraph -->
+
+{{IMG|b_validation.png|Two charts on log scales. Left: Casson's 57 estimated passages, each a bar across his range of days, drawn at the model's time; the blue bars of the calibrated model sit around the line of agreement, the grey bars of the slower model mostly above it, and four long voyages home sit well below the line for the calibrated model. Right: 34 recorded voyages scattered either side of the line.|Model against Casson: his 57 estimated passages and 34 recorded voyages.}}
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">How I did this</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The roads are exactly those of the first study. The sea is a grid of 15 km cells over the Mediterranean, the Black Sea and the Atlantic coast to Britain, and ships move from cell to cell at speeds set by the wind basin and the ship's heading. Boarding costs a day; winter is roads only, because from November to March the sea was considered too dangerous. I left out the Red Sea and the rivers, because I found no speeds for them I could check. Stanford's ORBIS model does all of this with far more detail on the winds, the seasons and the ships; I have not used its numbers, and this map is simpler but fully open, on a more detailed road network. Every assumption has been varied in sensitivity tests, set out in the paper, alongside the slower model.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons"><!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://maps.tristanhotham.com/roman-travel-times/">Explore the interactive version</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://doi.org/10.5281/zenodo.23863542">Read the paper</a></div>
+<!-- /wp:button -->
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://github.com/Tristan-Hotham/roman-travel-times">Data and code</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">Notes and sources</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>de Soto, P., Pažout, A., Brughmans, T. et al. (2025) <a href="https://doi.org/10.5281/zenodo.17122148">Itiner-e static version 2024</a>, Zenodo; <a href="https://doi.org/10.1038/s41597-025-06140-z">Scientific Data</a>. CC BY 4.0.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li><a href="https://pleiades.stoa.org/">Pleiades</a>, a gazetteer of past places (GIS tables from <a href="https://github.com/isawnyu/pleiades.datasets">github.com/isawnyu/pleiades.datasets</a>). CC BY 3.0.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Casson, L. (1951) Speed under sail of ancient ships. Transactions and Proceedings of the American Philological Association 82, 136-148, <a href="https://penelope.uchicago.edu/Thayer/E/Journals/TAPA/82/Speed_under_Sail_of_Ancient_Ships*.html">online edition on LacusCurtius</a>.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Digital Atlas of the Roman Empire (DARE), Johan Åhlfeldt. CC BY.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>English Wikipedia: <a href="https://en.wikipedia.org/wiki/Etesian">Etesian</a>, <a href="https://en.wikipedia.org/wiki/Mare_clausum">Mare clausum</a>, <a href="https://en.wikipedia.org/wiki/Cura_Annonae">Cura Annonae</a>, <a href="https://en.wikipedia.org/wiki/Roman_roads">Roman roads</a>. CC BY-SA 4.0.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>For comparison: Scheidel, W. and Meeks, E., <a href="https://orbis.stanford.edu/">ORBIS: The Stanford Geospatial Network Model of the Roman World</a>.</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>Land: <a href="https://www.naturalearthdata.com/">Natural Earth</a> (public domain).</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>I wrote the text, with drafting and editing assistance from Claude (Anthropic), which also helped prepare the analysis code. I reviewed and checked all text and results.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
