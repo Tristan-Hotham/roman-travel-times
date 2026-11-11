@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this data or code, please cite it as below."
+title: "By Road and by Sea: Fastest Travel Times from Rome in the Roman Empire, with Itiner-e Roads, Pleiades Ports and Casson's Sailing Speeds"
+type: dataset
+authors:
+  - family-names: Hotham
+    given-names: Tristan
+    orcid: "https://orcid.org/0000-0003-4931-9349"
+    affiliation: "Independent researcher"
+doi: "10.5281/zenodo.23863542"
+url: "https://maps.tristanhotham.com/roman-travel-times/"
+repository-code: "https://github.com/Tristan-Hotham/roman-travel-times"
+license: CC-BY-4.0
+keywords:
+  - "Roman Empire"
+  - "travel time"
+  - "sea routes"
+  - "ancient shipping"
+  - "sailing speeds"
+  - "etesian winds"
+  - "Itiner-e"
+  - "Pleiades"
+  - "network analysis"
